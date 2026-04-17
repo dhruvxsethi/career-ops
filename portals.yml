@@ -1,0 +1,768 @@
+# Portal Scanner Configuration — Singapore AI Market
+# Targeting: AI/ML Engineer, AI Security Engineer, LLMOps, Agentic AI — Singapore, Jan 2027
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. ATS API (Greenhouse/Ashby/Lever) → structured JSON (fast)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+
+# -- Title filter --
+title_filter:
+  positive:
+    # AI/ML core
+    - "AI"
+    - "ML"
+    - "Machine Learning"
+    - "LLM"
+    - "Agent"
+    - "Agentic"
+    - "GenAI"
+    - "Generative AI"
+    - "NLP"
+    - "LLMOps"
+    - "MLOps"
+    - "Applied AI"
+    - "Artificial Intelligence"
+    # AI Security (Dhruv's edge)
+    - "AI Security"
+    - "Security Engineer"
+    - "Red Team"
+    - "Adversarial"
+    - "Cybersecurity"
+    # Data & Research
+    - "Data Scientist"
+    - "Research Scientist"
+    - "Research Engineer"
+    - "Deep Learning"
+    - "Computer Vision"
+    # Engineering with AI focus
+    - "Platform Engineer"
+    - "Solutions Architect"
+    - "Solutions Engineer"
+    - "Forward Deployed"
+    - "AI Engineer"
+    - "ML Engineer"
+    - "Software Engineer"    # broad but paired with company context
+    # Product
+    - "Product Manager"
+    - "Technical PM"
+  negative:
+    - "Junior"
+    - "Intern"
+    - "iOS"
+    - "Android"
+    - "PHP"
+    - "Ruby"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "SAP "
+    - "Oracle EBS"
+    - "Mainframe"
+    - "COBOL"
+    - "Salesforce Admin"
+    - "UI/UX"
+    - "Graphic Design"
+    - "Content Writer"
+    - "HR "
+    - "Finance Analyst"
+    - "Accountant"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head of"
+    - "Director"
+    - "Mid-level"
+
+# -- Search queries — Singapore focus --
+search_queries:
+
+  # -- Singapore-specific boards --
+  - name: NodeFlair — AI/ML Singapore
+    query: 'site:nodeflair.com/jobs "AI" OR "ML" OR "Machine Learning" OR "LLM" Singapore 2026'
+    enabled: true
+
+  - name: NodeFlair — AI Security Singapore
+    query: 'site:nodeflair.com/jobs "AI Security" OR "Security Engineer" OR "MLSec" Singapore'
+    enabled: true
+
+  - name: MyCareersFuture — AI Engineer
+    query: 'site:mycareersfuture.gov.sg "AI Engineer" OR "Machine Learning" OR "LLM" Singapore'
+    enabled: true
+
+  - name: MyCareersFuture — AI Security
+    query: 'site:mycareersfuture.gov.sg "AI Security" OR "Cybersecurity" OR "Security Engineer" Singapore'
+    enabled: true
+
+  - name: Tech in Asia — Singapore AI roles
+    query: 'site:techinasia.com "AI" OR "ML Engineer" OR "Data Scientist" Singapore jobs 2026'
+    enabled: true
+
+  - name: Jobstreet Singapore — AI/ML
+    query: 'site:jobstreet.com.sg "AI Engineer" OR "Machine Learning" OR "LLM" OR "Data Scientist" Singapore'
+    enabled: true
+
+  # -- Global AI boards with Singapore listings --
+  - name: Greenhouse — AI Engineer Singapore
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "AI Engineer" OR "ML Engineer" Singapore'
+    enabled: true
+
+  - name: Greenhouse — AI Security Singapore
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Security" "AI" Singapore'
+    enabled: true
+
+  - name: Ashby — AI roles Singapore
+    query: 'site:jobs.ashbyhq.com "AI" OR "LLM" OR "ML" Singapore'
+    enabled: true
+
+  - name: Lever — AI roles Singapore
+    query: 'site:jobs.lever.co "AI Engineer" OR "ML Engineer" OR "Data Scientist" Singapore'
+    enabled: true
+
+  - name: LinkedIn Jobs — AI Singapore (via Google)
+    query: 'site:linkedin.com/jobs "AI Engineer" OR "ML Engineer" OR "LLM" Singapore 2026'
+    enabled: true
+
+  # -- Global AI companies (remote-friendly or with SG offices) --
+  - name: YC Jobs — Applied AI Singapore / Asia
+    query: 'site:workatastartup.com "AI Engineer" OR "Applied AI" OR "ML" Singapore OR Asia'
+    enabled: true
+
+  - name: ai-jobs.net — Singapore / Asia
+    query: 'site:ai-jobs.net "AI" OR "ML" Singapore OR Asia OR APAC'
+    enabled: true
+
+  - name: Himalayas — AI Engineer APAC
+    query: 'site:himalayas.app "AI Engineer" OR "ML Engineer" OR "LLMOps" Singapore OR APAC'
+    enabled: true
+
+  # -- Research & deep tech --
+  - name: Anthropic / OpenAI Singapore
+    query: '"AI Engineer" OR "Research Engineer" OR "Applied AI" site:openai.com/careers OR site:anthropic.com/careers Singapore OR APAC'
+    enabled: true
+
+tracked_companies:
+
+  # =====================================================================
+  # BIG TECH — Singapore offices
+  # =====================================================================
+
+  - name: Google Singapore
+    careers_url: https://careers.google.com/jobs/results/?location=Singapore
+    scan_method: websearch
+    scan_query: 'site:careers.google.com "Singapore" "AI" OR "ML" OR "Machine Learning" OR "Software Engineer"'
+    notes: "Large Singapore engineering hub. Strong AI/ML and security hiring."
+    enabled: true
+
+  - name: Meta Singapore
+    careers_url: https://www.metacareers.com/jobs?offices[0]=Singapore
+    scan_method: websearch
+    scan_query: 'site:metacareers.com Singapore "AI" OR "ML" OR "Software Engineer" OR "Research"'
+    notes: "Meta's APAC hub. AI research and production roles."
+    enabled: true
+
+  - name: Microsoft Singapore
+    careers_url: https://jobs.careers.microsoft.com/global/en/search?lc=Singapore
+    scan_method: websearch
+    scan_query: 'site:jobs.careers.microsoft.com Singapore "AI" OR "Azure AI" OR "Security" OR "Software Engineer"'
+    notes: "Azure AI, Copilot, security roles in Singapore."
+    enabled: true
+
+  - name: Amazon/AWS Singapore
+    careers_url: https://www.amazon.jobs/en/search?base_query=AI&loc_query=Singapore
+    scan_method: websearch
+    scan_query: 'site:amazon.jobs Singapore "AI" OR "ML" OR "AWS" OR "Security" "Engineer"'
+    notes: "AWS Singapore large org. AI, ML, security, platform roles."
+    enabled: true
+
+  - name: Apple Singapore
+    careers_url: https://jobs.apple.com/en-sg/search
+    scan_method: websearch
+    scan_query: 'site:jobs.apple.com Singapore "AI" OR "ML" OR "Machine Learning" OR "Software Engineer"'
+    notes: "Smaller SG office, but occasional ML and SWE roles."
+    enabled: true
+
+  - name: Nvidia Singapore
+    careers_url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+    scan_method: websearch
+    scan_query: '"NVIDIA" Singapore "AI" OR "ML" OR "Deep Learning" OR "Software Engineer" site:nvidia.wd5.myworkdayjobs.com OR site:nvidia.com/en-sg/about-nvidia/careers'
+    notes: "AI chip leader. Singapore AI and deep learning engineering."
+    enabled: true
+
+  - name: ByteDance / TikTok Singapore
+    careers_url: https://jobs.bytedance.com/en/position?location=Singapore
+    scan_method: websearch
+    scan_query: 'site:jobs.bytedance.com Singapore "AI" OR "ML" OR "Recommendation" OR "Security" OR "Algorithm"'
+    notes: "Huge SG eng hub. Recommendation, AI, security, platform teams."
+    enabled: true
+
+  - name: Salesforce Singapore
+    careers_url: https://careers.salesforce.com/en/jobs/?search=Singapore
+    scan_method: websearch
+    scan_query: 'site:careers.salesforce.com Singapore "AI" OR "Agentforce" OR "MuleSoft" OR "Solutions Architect"'
+    notes: "Agentforce platform. Solutions Architect and AI roles."
+    enabled: true
+
+  - name: Stripe Singapore
+    careers_url: https://stripe.com/jobs/search?location=Singapore
+    scan_method: websearch
+    scan_query: 'site:stripe.com/jobs Singapore "AI" OR "ML" OR "Software Engineer" OR "Security"'
+    notes: "Payments infra. Growing SG engineering presence."
+    enabled: true
+
+  - name: Shopify Singapore
+    careers_url: https://www.shopify.com/careers/search?locations%5B%5D=Singapore
+    scan_method: websearch
+    scan_query: '"Shopify" Singapore "AI" OR "ML" OR "Software Engineer" site:shopify.com/careers'
+    notes: "E-commerce platform. Occasional AI/ML and platform roles."
+    enabled: true
+
+  - name: Databricks Singapore
+    careers_url: https://jobs.lever.co/databricks
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/databricks Singapore OR APAC "AI" OR "ML" OR "Solutions Architect" OR "Data"'
+    notes: "Data + AI platform. Solutions Architect and MLOps roles."
+    enabled: true
+
+  - name: Snowflake Singapore
+    careers_url: https://careers.snowflake.com/us/en/search-results?qkeyword=singapore
+    scan_method: websearch
+    scan_query: '"Snowflake" Singapore "AI" OR "ML" OR "Solutions Engineer" OR "Data Engineer" site:careers.snowflake.com'
+    notes: "Data cloud. AI and solutions engineering roles in APAC."
+    enabled: true
+
+  - name: Palantir Singapore
+    careers_url: https://jobs.lever.co/palantir
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/palantir Singapore OR APAC "Forward Deployed" OR "AI" OR "Software Engineer"'
+    notes: "AI platforms for government and enterprise. FDE roles."
+    enabled: true
+
+  - name: Confluent Singapore
+    careers_url: https://jobs.lever.co/confluent
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/confluent Singapore OR APAC "AI" OR "Data" OR "Platform" OR "Solutions"'
+    notes: "Kafka/streaming platform. APAC solutions and engineering roles."
+    enabled: true
+
+  # =====================================================================
+  # AI LABS & FRONTIER AI
+  # =====================================================================
+
+  - name: Anthropic
+    careers_url: https://job-boards.greenhouse.io/anthropic
+    api: https://boards-api.greenhouse.io/v1/boards/anthropic/jobs
+    notes: "Claude maker. Singapore/APAC roles appear occasionally."
+    enabled: true
+
+  - name: OpenAI
+    careers_url: https://openai.com/careers
+    scan_method: websearch
+    scan_query: 'site:openai.com/careers Singapore OR APAC "AI" OR "Engineer" OR "Safety"'
+    notes: "Expanding globally. Keep watch for APAC roles."
+    enabled: true
+
+  - name: Cohere
+    careers_url: https://jobs.ashbyhq.com/cohere
+    notes: "Enterprise LLM. Has APAC expansion."
+    enabled: true
+
+  - name: Scale AI
+    careers_url: https://jobs.lever.co/scaleai
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/scaleai Singapore OR APAC "AI" OR "ML" OR "Engineer"'
+    notes: "AI data and training. APAC roles in data and AI engineering."
+    enabled: true
+
+  # =====================================================================
+  # SINGAPORE TECH UNICORNS & SCALE-UPS
+  # =====================================================================
+
+  - name: Grab
+    careers_url: https://grab.careers/jobs
+    scan_method: websearch
+    scan_query: 'site:grab.careers/jobs "AI" OR "ML" OR "Machine Learning" OR "Data Scientist" OR "LLM" OR "Security"'
+    notes: "Super app. One of SG's largest AI/ML engineering orgs."
+    enabled: true
+
+  - name: Sea Group / Shopee
+    careers_url: https://career.sea.com/jobs
+    scan_method: websearch
+    scan_query: 'site:career.sea.com "AI" OR "ML" OR "Machine Learning" OR "NLP" OR "Recommendation" OR "Data Scientist"'
+    notes: "Sea Group (Shopee, SeaMoney, Garena). Huge AI org in SG."
+    enabled: true
+
+  - name: Lazada
+    careers_url: https://lazada.taleo.net/careersection/2/jobsearch.ftl
+    scan_method: websearch
+    scan_query: '"Lazada" Singapore "AI" OR "ML" OR "Algorithm" OR "Recommendation" OR "Data Scientist" site:lazada.com/about OR site:linkedin.com/jobs'
+    notes: "Alibaba e-commerce SG hub. AI recommendation and search."
+    enabled: true
+
+  - name: Gojek / GoTo Singapore
+    careers_url: https://gojek.io/careers
+    scan_method: websearch
+    scan_query: 'site:gojek.io/careers OR site:jobs.lever.co/gojek Singapore "AI" OR "ML" OR "Data" OR "Platform"'
+    notes: "Ride-hailing super app. AI/ML and platform teams."
+    enabled: true
+
+  - name: Carousell
+    careers_url: https://jobs.lever.co/carousell
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/carousell Singapore "AI" OR "ML" OR "Data" OR "Platform" OR "Engineer"'
+    notes: "C2C marketplace SG unicorn. Data science and platform roles."
+    enabled: true
+
+  - name: PropertyGuru
+    careers_url: https://job-boards.greenhouse.io/propertyguru
+    api: https://boards-api.greenhouse.io/v1/boards/propertyguru/jobs
+    notes: "PropTech unicorn SG. ML and data engineering."
+    enabled: true
+
+  - name: Ninja Van
+    careers_url: https://jobs.lever.co/ninjavan
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/ninjavan Singapore "AI" OR "ML" OR "Data" OR "Platform" OR "Engineer"'
+    notes: "Logistics unicorn SG. Route optimization, ML, platform."
+    enabled: true
+
+  - name: Nium
+    careers_url: https://jobs.lever.co/nium
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/nium Singapore "AI" OR "ML" OR "Platform" OR "Engineer" OR "Security"'
+    notes: "Fintech unicorn SG. Payments infra and engineering roles."
+    enabled: true
+
+  - name: Carro
+    careers_url: https://jobs.lever.co/carro
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/carro Singapore "AI" OR "Data" OR "Engineer"'
+    notes: "Automotive marketplace SG unicorn. AI pricing and data."
+    enabled: true
+
+  - name: Circles.Life
+    careers_url: https://jobs.lever.co/circles-life
+    scan_method: websearch
+    scan_query: '"Circles.Life" Singapore "AI" OR "Platform" OR "Engineer" site:jobs.lever.co OR site:linkedin.com/jobs'
+    notes: "Digital telco. AI personalization and platform."
+    enabled: true
+
+  - name: Razer
+    careers_url: https://careers.razer.com
+    scan_method: websearch
+    scan_query: 'site:careers.razer.com Singapore "AI" OR "ML" OR "Platform" OR "Software Engineer"'
+    notes: "Gaming hardware/software SG company. AI and platform roles."
+    enabled: true
+
+  - name: Patsnap
+    careers_url: https://jobs.lever.co/patsnap
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/patsnap Singapore "AI" OR "NLP" OR "ML" OR "LLM" OR "Data"'
+    notes: "IP intelligence SaaS. NLP/LLM heavy for IP analysis."
+    enabled: true
+
+  - name: Hypotenuse AI
+    careers_url: https://jobs.ashbyhq.com/hypotenuse-ai
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/hypotenuse-ai OR site:hypotenuse.ai/careers "AI" OR "ML" OR "Engineer"'
+    notes: "SG AI content generation startup. YC-backed. AI-native team."
+    enabled: true
+
+  - name: AI Rudder
+    careers_url: https://jobs.lever.co/airudder
+    scan_method: websearch
+    scan_query: '"AI Rudder" Singapore "AI" OR "ML" OR "Voice" OR "NLP" OR "Engineer" site:linkedin.com/jobs OR site:jobs.lever.co'
+    notes: "SG voice AI startup. AI voice agents for Asia markets."
+    enabled: true
+
+  - name: Advance.AI (Advance Intelligence Group)
+    careers_url: https://jobs.lever.co/advance-intelligence-group
+    scan_method: websearch
+    scan_query: '"Advance.AI" OR "Advance Intelligence" Singapore "AI" OR "ML" OR "Risk" OR "NLP" site:linkedin.com/jobs OR site:jobs.lever.co'
+    notes: "SG AI fintech. Credit AI, fraud detection, BNPL. SEA-focused."
+    enabled: true
+
+  - name: Aicadium
+    careers_url: https://www.aicadium.ai/careers
+    scan_method: websearch
+    scan_query: '"Aicadium" Singapore "AI" OR "ML" OR "Engineer" OR "Consultant" site:linkedin.com/jobs OR site:aicadium.ai'
+    notes: "Temasek-backed enterprise AI company SG. Applied AI consultancy."
+    enabled: true
+
+  - name: Biofourmis
+    careers_url: https://jobs.lever.co/biofourmis
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/biofourmis Singapore "AI" OR "ML" OR "Data" OR "Engineer"'
+    notes: "Digital health AI, SG HQ. Wearables + AI for patient monitoring."
+    enabled: true
+
+  - name: Holmusk
+    careers_url: https://holmusk.com/careers
+    scan_method: websearch
+    scan_query: '"Holmusk" Singapore "AI" OR "ML" OR "Data Scientist" OR "NLP" site:linkedin.com/jobs'
+    notes: "Mental health AI SG startup. NLP/ML for clinical data."
+    enabled: true
+
+  - name: Traveloka
+    careers_url: https://jobs.lever.co/traveloka
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/traveloka Singapore "AI" OR "ML" OR "Data" OR "Recommendation" OR "Engineer"'
+    notes: "Travel superapp SG/Indonesia. ML recommendation teams."
+    enabled: true
+
+  # =====================================================================
+  # SINGAPORE BANKS (major AI employers)
+  # =====================================================================
+
+  - name: DBS Bank
+    careers_url: https://www.dbs.com/careers/search-jobs/index.page
+    scan_method: websearch
+    scan_query: 'site:dbs.com/careers OR site:jobs.dbs.com Singapore "AI" OR "ML" OR "Data Scientist" OR "LLM" OR "Platform"'
+    notes: "SG's largest bank. World-class AI org. 200+ AI roles typically open."
+    enabled: true
+
+  - name: OCBC Bank
+    careers_url: https://careers.ocbc.com/job-search
+    scan_method: websearch
+    scan_query: '"OCBC" Singapore "AI" OR "ML" OR "Data Scientist" OR "LLM" OR "Security" site:careers.ocbc.com OR site:linkedin.com/jobs'
+    notes: "Big 3 SG bank. Growing AI and data science team."
+    enabled: true
+
+  - name: UOB
+    careers_url: https://careers.uob.com/search/jobs
+    scan_method: websearch
+    scan_query: '"UOB" Singapore "AI" OR "ML" OR "Data Scientist" OR "NLP" OR "Platform" site:careers.uob.com OR site:linkedin.com/jobs'
+    notes: "Big 3 SG bank. Data and AI transformation ongoing."
+    enabled: true
+
+  - name: Standard Chartered Singapore
+    careers_url: https://scb.taleo.net/careersection/jobdetail.ftl
+    scan_method: websearch
+    scan_query: '"Standard Chartered" Singapore "AI" OR "ML" OR "Data Scientist" OR "LLM" OR "Security" site:linkedin.com/jobs'
+    notes: "Intl bank, large SG presence. AI/ML in risk, compliance, products."
+    enabled: true
+
+  - name: HSBC Singapore
+    careers_url: https://mycareer.hsbc.com/en_GB/external/SearchJobs?query=Singapore
+    scan_method: websearch
+    scan_query: '"HSBC" Singapore "AI" OR "ML" OR "Data Scientist" OR "Risk" OR "Security" "Engineer" site:linkedin.com/jobs'
+    notes: "Intl bank SG hub. AI in risk, compliance, wealth."
+    enabled: true
+
+  - name: JP Morgan Singapore
+    careers_url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions
+    scan_method: websearch
+    scan_query: '"JP Morgan" OR "JPMorgan" Singapore "AI" OR "ML" OR "Quantitative" OR "Data Scientist" OR "Security" site:linkedin.com/jobs'
+    notes: "Large IB SG presence. Quant, AI, and security roles."
+    enabled: true
+
+  - name: Goldman Sachs Singapore
+    careers_url: https://www.goldmansachs.com/careers/search
+    scan_method: websearch
+    scan_query: '"Goldman Sachs" Singapore "AI" OR "ML" OR "Data" OR "Quantitative" OR "Platform" OR "Software Engineer" site:linkedin.com/jobs'
+    notes: "IB with tech focus. SWE, quantitative, and AI roles."
+    enabled: true
+
+  - name: Citibank Singapore
+    careers_url: https://jobs.citi.com/search-jobs/Singapore
+    scan_method: websearch
+    scan_query: 'site:jobs.citi.com Singapore "AI" OR "ML" OR "Data" OR "Platform" OR "Security"'
+    notes: "Large consumer/IB presence in SG. AI and platform roles."
+    enabled: true
+
+  # =====================================================================
+  # SINGAPORE GOVERNMENT TECH
+  # =====================================================================
+
+  - name: GovTech Singapore
+    careers_url: https://careers.gov.sg/search/?keyword=&agency=GovTech
+    scan_method: websearch
+    scan_query: '"GovTech" Singapore "AI" OR "ML" OR "Data Scientist" OR "Software Engineer" OR "Security" site:careers.gov.sg OR site:linkedin.com/jobs'
+    notes: "Govt digital arm. Large AI/ML, security, and platform hiring. EP-friendly."
+    enabled: true
+
+  - name: IMDA (Infocomm Media Development Authority)
+    careers_url: https://careers.gov.sg/search/?keyword=&agency=IMDA
+    scan_method: websearch
+    scan_query: '"IMDA" Singapore "AI" OR "Digital" OR "Data" OR "Policy" OR "Engineer" site:careers.gov.sg OR site:linkedin.com/jobs'
+    notes: "SG tech regulator and enabler. AI policy and engineering roles."
+    enabled: true
+
+  - name: AI Singapore (AISG)
+    careers_url: https://aisingapore.org/careers
+    scan_method: websearch
+    scan_query: 'site:aisingapore.org "AI" OR "ML" OR "Research" OR "Engineer" Singapore careers'
+    notes: "National AI programme. Research Engineer, AI Apprenticeship, AI Engineer roles."
+    enabled: true
+
+  - name: A*STAR
+    careers_url: https://www.a-star.edu.sg/Careers
+    scan_method: websearch
+    scan_query: '"A*STAR" Singapore "AI" OR "ML" OR "Deep Learning" OR "Research Scientist" OR "Research Engineer" site:a-star.edu.sg OR site:linkedin.com/jobs'
+    notes: "National research org. I2R institute is AI-heavy. Research Engineer roles."
+    enabled: true
+
+  - name: DSO National Laboratories
+    careers_url: https://www.dso.org.sg/working-at-dso/career
+    scan_method: websearch
+    scan_query: '"DSO" Singapore "AI" OR "ML" OR "Cybersecurity" OR "Data Science" OR "Engineer" site:dso.org.sg OR site:linkedin.com/jobs'
+    notes: "Defence research. AI, ML, cybersecurity roles. PR/citizen preferred but not always required."
+    enabled: true
+
+  - name: DSTA (Defence Science and Technology Agency)
+    careers_url: https://www.dsta.gov.sg/join-us/job-seeker/jobs-available
+    scan_method: websearch
+    scan_query: '"DSTA" Singapore "AI" OR "ML" OR "Data Science" OR "Cybersecurity" OR "Platform" site:dsta.gov.sg OR site:linkedin.com/jobs'
+    notes: "Defence tech agency. AI, cybersecurity, platform. Mostly PR/citizen but has EP roles."
+    enabled: true
+
+  # =====================================================================
+  # CYBERSECURITY + AI SECURITY (Dhruv's specialisation)
+  # =====================================================================
+
+  - name: Palo Alto Networks Singapore
+    careers_url: https://job-boards.greenhouse.io/paloaltonetworks
+    api: https://boards-api.greenhouse.io/v1/boards/paloaltonetworks/jobs
+    notes: "Current intern employer. Full-time pipeline post-internship — high priority."
+    enabled: true
+
+  - name: CrowdStrike Singapore
+    careers_url: https://careers.crowdstrike.com/us/en/search-results?qkeyword=singapore
+    scan_method: websearch
+    scan_query: '"CrowdStrike" Singapore "AI" OR "ML" OR "Threat" OR "Security Engineer" OR "Data Scientist" site:careers.crowdstrike.com OR site:linkedin.com/jobs'
+    notes: "AI-native cybersecurity. Charlotte AI product. Singapore APAC hub."
+    enabled: true
+
+  - name: Darktrace Singapore
+    careers_url: https://jobs.lever.co/darktrace
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/darktrace Singapore OR APAC "AI" OR "Security" OR "Engineer"'
+    notes: "AI cybersecurity. Self-learning AI for threat detection."
+    enabled: true
+
+  - name: Tenable Singapore
+    careers_url: https://careers.tenable.com/jobs/search?office_location=Singapore
+    scan_method: websearch
+    scan_query: '"Tenable" Singapore "AI" OR "Security" OR "Vulnerability" OR "Engineer" site:careers.tenable.com OR site:linkedin.com/jobs'
+    notes: "Vulnerability management + AI. Singapore APAC office."
+    enabled: true
+
+  - name: SentinelOne Singapore
+    careers_url: https://jobs.lever.co/sentinelone
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/sentinelone Singapore OR APAC "AI" OR "Security" OR "ML" OR "Engineer"'
+    notes: "AI-native EDR platform. Growing APAC presence."
+    enabled: true
+
+  - name: Recorded Future
+    careers_url: https://jobs.lever.co/recordedfuture
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/recordedfuture Singapore OR APAC "AI" OR "Threat Intelligence" OR "ML" OR "Security"'
+    notes: "AI threat intelligence. APAC growth mode."
+    enabled: true
+
+  - name: Ensign InfoSecurity
+    careers_url: https://ensigninfosecurity.com/careers
+    scan_method: websearch
+    scan_query: '"Ensign InfoSecurity" Singapore "AI" OR "ML" OR "Cybersecurity" OR "Security Engineer" site:ensigninfosecurity.com OR site:linkedin.com/jobs'
+    notes: "SG-founded cybersecurity firm. AI + security roles, strong SG presence."
+    enabled: true
+
+  - name: Group-IB Singapore
+    careers_url: https://jobs.lever.co/group-ib
+    scan_method: websearch
+    scan_query: '"Group-IB" Singapore "Threat Intelligence" OR "AI" OR "ML" OR "Security Engineer" site:jobs.lever.co OR site:linkedin.com/jobs'
+    notes: "Cyber threat intelligence. Singapore APAC HQ."
+    enabled: true
+
+  - name: Wiz Singapore
+    careers_url: https://job-boards.greenhouse.io/wiz
+    api: https://boards-api.greenhouse.io/v1/boards/wiz/jobs
+    notes: "Cloud security unicorn. AI-assisted cloud security. Growing APAC."
+    enabled: true
+
+  - name: Lacework
+    careers_url: https://job-boards.greenhouse.io/lacework
+    api: https://boards-api.greenhouse.io/v1/boards/lacework/jobs
+    notes: "AI-powered cloud security. Data-driven threat detection."
+    enabled: true
+
+  # =====================================================================
+  # AI PLATFORMS & LLMOPS (Dhruv's technical match)
+  # =====================================================================
+
+  - name: LangChain
+    careers_url: https://jobs.ashbyhq.com/langchain
+    notes: "LangChain/LangSmith. Core to Dhruv's AI stack."
+    enabled: true
+
+  - name: Arize AI
+    careers_url: https://job-boards.greenhouse.io/arizeai
+    api: https://boards-api.greenhouse.io/v1/boards/arizeai/jobs
+    notes: "LLMOps / AI observability. Strong fit for Dhruv's RAG pipeline work."
+    enabled: true
+
+  - name: Weights & Biases
+    careers_url: https://jobs.lever.co/wandb
+    notes: "MLOps/experiment tracking. APAC presence."
+    enabled: true
+
+  - name: Pinecone
+    careers_url: https://jobs.ashbyhq.com/pinecone
+    notes: "Vector DB — core to RAG systems. APAC roles emerging."
+    enabled: true
+
+  - name: Langfuse
+    careers_url: https://langfuse.com/careers
+    scan_method: websearch
+    scan_query: '"Langfuse" careers "engineer" OR "solutions" "AI" OR "LLM"'
+    notes: "LLM observability platform. Growing."
+    enabled: true
+
+  - name: Glean
+    careers_url: https://job-boards.greenhouse.io/gleanwork
+    api: https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs
+    notes: "Enterprise AI search. APAC expansion."
+    enabled: true
+
+  - name: Cohere
+    careers_url: https://jobs.ashbyhq.com/cohere
+    notes: "Enterprise LLM provider."
+    enabled: true
+
+  # =====================================================================
+  # FINTECH / PAYMENTS (Dhruv's SWE background is a fit)
+  # =====================================================================
+
+  - name: Stripe Singapore
+    careers_url: https://stripe.com/jobs/search?location=Singapore
+    scan_method: websearch
+    scan_query: 'site:stripe.com/jobs Singapore "AI" OR "ML" OR "Fraud" OR "Risk" OR "Security" OR "Platform"'
+    notes: "Payments infra. AI fraud/risk and platform engineering."
+    enabled: true
+
+  - name: Adyen Singapore
+    careers_url: https://jobs.lever.co/adyen
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/adyen Singapore OR APAC "AI" OR "ML" OR "Risk" OR "Security" OR "Platform"'
+    notes: "Payments platform. Singapore APAC hub. Fintech AI and platform."
+    enabled: true
+
+  - name: Visa Singapore (AI Research)
+    careers_url: https://jobs.smartrecruiters.com/Visa
+    scan_method: websearch
+    scan_query: '"Visa" Singapore "AI" OR "ML" OR "Data Scientist" OR "Research" OR "Risk" site:smartrecruiters.com OR site:linkedin.com/jobs'
+    notes: "Visa's AI research center in SG. Strong AI/ML research hiring."
+    enabled: true
+
+  - name: Mastercard Singapore
+    careers_url: https://careers.mastercard.com/us/en/search-results?qkeyword=singapore
+    scan_method: websearch
+    scan_query: '"Mastercard" Singapore "AI" OR "ML" OR "Data Scientist" OR "Security" "Engineer" site:careers.mastercard.com OR site:linkedin.com/jobs'
+    notes: "Payments + AI fraud detection. Singapore tech centre."
+    enabled: true
+
+  # =====================================================================
+  # HEALTHCARE AI (emerging Singapore strength)
+  # =====================================================================
+
+  - name: Verily (Google Life Sciences)
+    careers_url: https://job-boards.greenhouse.io/verily
+    api: https://boards-api.greenhouse.io/v1/boards/verily/jobs
+    notes: "Google's health AI. Occasional APAC roles."
+    enabled: true
+
+  - name: GE HealthCare
+    careers_url: https://careers.gehealthcare.com/global/en/search-results
+    scan_method: websearch
+    scan_query: '"GE HealthCare" Singapore "AI" OR "ML" OR "Platform" OR "Software Engineer" site:careers.gehealthcare.com OR site:linkedin.com/jobs'
+    notes: "Former employer. Strong alumni relationship + AI in imaging/clinical."
+    enabled: true
+
+  # =====================================================================
+  # GLOBAL AI COMPANIES (APAC-accessible)
+  # =====================================================================
+
+  - name: Hugging Face
+    careers_url: https://apply.workable.com/huggingface/
+    scan_method: websearch
+    scan_query: 'site:apply.workable.com/huggingface "AI" OR "ML" OR "Engineer" Singapore OR APAC OR remote'
+    notes: "ML platform. Remote-friendly."
+    enabled: true
+
+  - name: Perplexity
+    careers_url: https://jobs.ashbyhq.com/perplexity
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/perplexity "AI" OR "Engineer" Singapore OR APAC'
+    notes: "AI search. Expanding to APAC."
+    enabled: true
+
+  - name: Sierra (AI customer agents)
+    careers_url: https://jobs.ashbyhq.com/sierra
+    scan_method: websearch
+    scan_query: '"sierra.ai" "AI" "Forward Deployed" OR "Applied" OR "Solutions" site:jobs.ashbyhq.com'
+    notes: "AI customer service agents."
+    enabled: true
+
+  - name: Mistral AI
+    careers_url: https://jobs.lever.co/mistral
+    notes: "European LLM. Occasional remote/APAC roles."
+    enabled: true
+
+  - name: Runway ML
+    careers_url: https://job-boards.greenhouse.io/runwayml
+    api: https://boards-api.greenhouse.io/v1/boards/runwayml/jobs
+    notes: "Generative AI video."
+    enabled: true
+
+  - name: ElevenLabs
+    careers_url: https://jobs.ashbyhq.com/elevenlabs
+    notes: "Voice AI TTS. Remote-friendly."
+    enabled: true
+
+  - name: Synthesia
+    careers_url: https://jobs.ashbyhq.com/synthesia
+    notes: "AI video generation. Enterprise focus."
+    enabled: true
+
+  - name: Scale AI
+    careers_url: https://jobs.lever.co/scaleai
+    notes: "AI data platform. Growing APAC presence."
+    enabled: true
+
+  - name: Temporal
+    careers_url: https://job-boards.greenhouse.io/temporal
+    api: https://boards-api.greenhouse.io/v1/boards/temporal/jobs
+    notes: "Workflow orchestration — relevant for agent pipelines."
+    enabled: true
+
+  # =====================================================================
+  # CONSULTING & ENTERPRISE AI (Singapore market)
+  # =====================================================================
+
+  - name: Accenture Singapore (AI practice)
+    careers_url: https://www.accenture.com/sg-en/careers/jobsearch
+    scan_method: websearch
+    scan_query: '"Accenture" Singapore "AI" OR "ML" OR "Data Scientist" OR "AI Engineer" OR "Applied AI" site:accenture.com/sg-en/careers OR site:linkedin.com/jobs'
+    notes: "Large AI consulting practice in SG. Applied AI, Solutions Architect."
+    enabled: true
+
+  - name: McKinsey QuantumBlack Singapore
+    careers_url: https://www.mckinsey.com/careers/search-jobs
+    scan_method: websearch
+    scan_query: '"McKinsey" OR "QuantumBlack" Singapore "AI" OR "ML" OR "Data Scientist" OR "Analytics" site:mckinsey.com/careers OR site:linkedin.com/jobs'
+    notes: "McKinsey's AI/analytics arm. Data Science and ML roles."
+    enabled: true
+
+  - name: Deloitte AI Singapore
+    careers_url: https://apply.deloitte.com/careers/SearchJobs
+    scan_method: websearch
+    scan_query: '"Deloitte" Singapore "AI" OR "ML" OR "Data Scientist" OR "Analytics" OR "GenAI" site:linkedin.com/jobs'
+    notes: "Big4 AI practice. Applied AI and analytics roles."
+    enabled: true

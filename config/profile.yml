@@ -1,0 +1,69 @@
+# Career-Ops Profile Configuration
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Dhruv Sethi"
+  email: "dhruvxsethi@gmail.com"
+  phone: "+65 93952648"
+  location: "Singapore"
+  linkedin: "linkedin.com/in/dhruvxsethi/"   # update with your actual LinkedIn handle
+  portfolio_url: ""
+  github: "github.com/dhruvxsethi"            # update if different
+  twitter: ""
+
+target_roles:
+  # Primary targets for full-time roles starting Jan 2027 in Singapore
+  primary:
+    - "AI/ML Engineer"
+    - "AI Security Engineer"
+    - "LLMOps / AI Platform Engineer"
+  archetypes:
+    - name: "AI/ML Engineer"
+      level: "Junior-Mid (new grad with 2yr exp)"
+      fit: "primary"        # primary = dream role, secondary = good fit, adjacent = stretch
+    - name: "AI Security Engineer"
+      level: "Junior-Mid"
+      fit: "primary"        # strong signal from PAN internship
+    - name: "AI Platform / LLMOps Engineer"
+      level: "Junior-Mid"
+      fit: "primary"        # RAG + agent workflows in production
+    - name: "Agentic AI Engineer"
+      level: "Junior-Mid"
+      fit: "secondary"
+    - name: "Software Engineer (AI-focused)"
+      level: "Junior-Mid"
+      fit: "secondary"      # SWE roles at AI companies
+
+narrative:
+  headline: "MS in AI @ NTU | Built production RAG pipelines and AI security systems at Palo Alto Networks"
+  exit_story: "2+ years of backend SWE experience at fintech scale, now specializing in AI systems through an MS in AI at NTU and hands-on internship building production AI security layers at Palo Alto Networks. Looking for a full-time AI/ML or AI security role in Singapore from Jan 2027."
+  superpowers:
+    - "End-to-end AI systems (RAG, agents, security) in production"
+    - "Full-stack backend (Go, Node.js, Python) at startup scale"
+    - "Data pipelines + observability (Grafana, SQL, Kafka)"
+    - "Fast learner: went from fintech SWE to AI security in one internship"
+  proof_points:
+    - name: "Palo Alto Networks — AI Security Intern"
+      url: ""
+      hero_metric: "Built prod-grade RAG + agent workflows for banking/public sector; ran real-world adversarial attacks (prompt injection, data poisoning, model evasion)"
+    - name: "Niyo Global — Card Controls SDK"
+      url: ""
+      hero_metric: "Built SDK adopted across multiple product spokes; Student Mode won hackathon and served 40% of user base"
+    - name: "StoreMyStuff SaaS"
+      url: "https://www.storemystuff.in/"
+      hero_metric: "Launched end-to-end SaaS platform (React + NestJS + MongoDB) with real users"
+
+compensation:
+  target_range: "SGD 5,500–8,500/month"  # Singapore fresh grad with 2yr exp range
+  currency: "SGD"
+  minimum: "SGD 5,000/month"
+  location_flexibility: "Singapore-based; open to hybrid or on-site"
+  notes: "Targeting Jan 2027 start. Currently on student pass — will need EP (Employment Pass) sponsorship."
+
+location:
+  country: "Singapore"
+  city: "Singapore"
+  timezone: "SGT (UTC+8)"
+  visa_status: "Student pass (NTU) — requires Employment Pass sponsorship for full-time"
+  target_start: "January 2027"
+  current_commitment: "Palo Alto Networks internship ends September 2026"
