@@ -6,22 +6,21 @@
 
 ## Palo Alto Networks — AI Security Intern (Mar 2026–Present)
 **Team:** Technical Solutions (AI Security)
-**Context:** Built enterprise AI security demos and MLSecOps integrations for banking and public sector clients.
+**Context:** 6-month internship (Mar–Sep 2026). Role involves building AI security systems for banking and public sector and presenting to clients.
+**Note:** Work is ongoing — proof points here reflect the direction and scope of the role. Update with specifics as they're completed.
 
-### Proof Point 1: Multi-Agent Bank Security Demo
-- **What:** Built a complete end-to-end bank AI system demo showcasing PANW products working together — multi-agent RAG pipeline with MCP integration, then attacked it with real adversarial techniques (prompt injection, data poisoning, model evasion), then demonstrated how integrated PANW products defend it.
-- **Stack:** Multi-agent orchestration, RAG, MCP, LangChain-style agents, enterprise AI tooling
-- **Impact:** Presented to PANW partners and clients to demonstrate integrated AI security posture; used in active sales/partner engagements
-- **Signal:** End-to-end ownership — design, build, attack, defend, present to customers
+### Proof Point 1: AI Security for Banking/Public Sector (In Progress)
+- **What:** Building enterprise AI systems (RAG pipelines, agent workflows) for banking and public sector, then running adversarial attacks against them (prompt injection, data poisoning, model evasion), then securing them using PANW products
+- **Stack:** RAG, multi-agent orchestration, MCP, LangChain-style tooling, enterprise AI security layers
+- **Signal:** Rare builder + attacker mindset; understands both how AI systems fail and how to harden them
 
-### Proof Point 2: MLSecOps CI/CD Integration
-- **What:** Built integration of Prisma AI directly into CI/CD pipelines — so AI security checks run automatically on every model/code push
-- **Impact:** Showed enterprises how to shift-left on AI security; used in client-facing demos
-- **Signal:** DevSecOps mindset applied to ML; bridges SWE background with AI security
+### Proof Point 2: AI Security Layer Design (In Progress)
+- **What:** Designing end-to-end AI security layers using enterprise tools, covering the full pipeline: data ingestion → model training → deployment → inference
+- **Signal:** Systematic security thinking across the entire ML lifecycle, not just inference
 
-### Proof Point 3: Client-Facing Technical Demos
-- **What:** Goes to client sites to demo the full AI security platform, not just internal engineering
-- **Signal:** Technical Solutions team = FDE-style role; strong presentation and client-facing skills alongside engineering
+### Proof Point 3: Client-Facing Technical Solutions Role
+- **What:** Technical Solutions team — involves demoing AI security platforms to partners and clients, not just internal engineering
+- **Signal:** FDE-style exposure: builds and presents; strong communication + technical combined
 
 ---
 

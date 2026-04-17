@@ -17,25 +17,20 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 
 ---
 
-### [AI Security / Systems] Build-and-Attack Bank AI Demo — PAN
-**Source:** Seed — Palo Alto Networks internship
-**S:** At PAN I needed to show enterprise clients (banks, public sector) their real AI security exposure and how a PANW-integrated stack defends it.
-**T:** Build a realistic bank AI system, attack it with real adversarial techniques, then show the defense — for live partner/client demos.
-**A:** Built multi-agent RAG pipeline with MCP integration simulating a bank AI assistant. Ran prompt injection, data poisoning, and model evasion attacks against it, documented each vector, then integrated PANW security products at every layer (ingestion → training → deployment → inference) and ran the demo end-to-end.
-**R:** Demo is used in live partner and client engagements. Gave clients a concrete before/after rather than a theoretical slide.
-**Reflection:** The hardest part was making attacks realistic enough to be credible but safe enough to demo. That tension taught me more about threat modeling than any coursework — "real enough to be scary, controlled enough to be safe" is actually a design constraint.
-**Best for:** AI Security Engineer, LLMOps, Agentic AI, "complex system you built", "client-facing technical work"
+### [AI Security / Systems] Build-and-Attack Bank AI Demo — PAN ⚠️ IN PROGRESS
+**Source:** Seed — Palo Alto Networks internship (work in progress, update when complete)
+**Context:** Building a multi-agent RAG pipeline for banking/public sector, running adversarial attacks (prompt injection, data poisoning, model evasion), then demonstrating PANW defence integrations — for partner/client demos. Not yet complete as of Apr 2026.
+**When ready, the story will be:** S: needed to show clients their real AI exposure. T: build realistic bank AI, attack it, show defence. A: [specifics once done]. R: [metrics/client response once done].
+**Reflection placeholder:** The builder + attacker combination — most engineers do one or the other.
+**Best for (when complete):** AI Security Engineer, LLMOps, Agentic AI, "complex system you built"
 
 ---
 
-### [Security / DevSecOps] MLSecOps CI/CD Integration — PAN
-**Source:** Seed — Palo Alto Networks internship
-**S:** Most enterprises add AI security after deployment. The real risk window starts at training and model ingestion — before prod.
-**T:** Demonstrate how Prisma AI integrates into CI/CD pipelines so AI security checks run automatically on every push.
-**A:** Mapped which pipeline stages introduce AI-specific risk. Integrated Prisma AI checks as pipeline gates at model loading, data ingestion, pre-deployment validation, and inference config. Built a demo pipeline that fails builds on detected vulnerabilities with structured developer output.
-**R:** Working demo used in client presentations; gives enterprises a concrete shift-left path rather than a vague recommendation.
-**Reflection:** Most security engineers think about AI as an API call. Framing it as a supply chain problem changes both the tools and the ownership — CISOs respond to that framing differently.
-**Best for:** AI Security, DevSecOps, LLMOps, "how would you approach AI security at scale"
+### [Security / DevSecOps] MLSecOps CI/CD Integration — PAN ⚠️ IN PROGRESS
+**Source:** Seed — Palo Alto Networks internship (work in progress)
+**Context:** Integrating Prisma AI directly into CI/CD pipelines so AI security checks run on every push — shift-left on AI security.
+**When ready:** Update with actual pipeline stages covered, specific vulnerability types caught, client reaction.
+**Best for (when complete):** AI Security, DevSecOps, "shift-left security"
 
 ---
 
