@@ -2,7 +2,8 @@
 # data/applications.md   ← tracked: remote scan needs to read/write
 # data/pipeline.md       ← tracked: remote scan writes new jobs here
 # data/scan-history.tsv  ← tracked: dedup across scans
-reports/*.md
+# reports tracked in this fork so remote evaluate agent can commit them
+# reports/*.md
 !reports/.gitkeep
 output/*
 !output/.gitkeep
