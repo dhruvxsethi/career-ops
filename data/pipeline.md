@@ -1,15 +1,6 @@
 # Pipeline — URL Inbox
 
 ## Pending
-
-- [ ] https://www.grab.careers/en/jobs/744000107446310/senior-data-scientist-grabmaps/ | Grab | Senior Data Scientist (GrabMaps)
-- [ ] https://www.grab.careers/en/jobs/744000104833132/lead-machine-learning-platform-engineer/ | Grab | Lead Machine Learning Platform Engineer
-- [ ] https://www.grab.careers/en/jobs/744000120321707/lead-data-scientist-grabmart/ | Grab | Lead Data Scientist (Grabmart)
-- [ ] https://www.grab.careers/en/jobs/744000088522025/senior-data-scientist-business-transaction-platform/ | Grab | Senior Data Scientist (Business & Transaction Platform)
-- [ ] https://www.grab.careers/en/jobs/744000077806135/lead-data-scientist-llm-post-training/ | Grab | Lead Data Scientist (LLM Post Training)
-- [ ] https://www.grab.careers/en/jobs/744000087818132/lead-machine-learning-engineer-fulfilment/ | Grab | Lead Machine Learning Engineer (Fulfilment)
-- [ ] https://www.grab.careers/en/jobs/744000069489988/lead-machine-learning-engineer-ads/ | Grab | Lead Machine Learning Engineer (Ads)
-- [ ] https://www.grab.careers/en/jobs/744000047978395/lead-data-scientist-supply-planning/ | Grab | Lead Data Scientist (Supply Planning)
 - [ ] https://www.grab.careers/en/jobs/744000112454626/senior-data-scientist-supply-planning/ | Grab | Senior Data Scientist (Supply Planning)
 - [ ] https://www.grab.careers/en/jobs/744000057527178/senior-data-scientist-deliveries-ace/ | Grab | Senior Data Scientist (Deliveries & ACE)
 - [ ] https://careers.google.com/jobs/results/85431139474252486-software-engineer-machine-learning/ | Google Singapore | Software Engineer, Machine Learning
@@ -31,3 +22,12 @@
 - [ ] https://www.nodeflair.com/jobs/jpmorgan-chase-co-site-reliability-engineer-ai-machine-learning-singapore-52416 | JP Morgan | Site Reliability Engineer, AI/Machine Learning
 
 ## Processed
+
+- [x] #001 | https://www.grab.careers/en/jobs/744000107446310/senior-data-scientist-grabmaps/ | Grab | Senior Data Scientist (GrabMaps) | 2.5/5 | PDF ❌
+- [x] #002 | https://www.grab.careers/en/jobs/744000104833132/lead-machine-learning-platform-engineer/ | Grab | Lead Machine Learning Platform Engineer | 3.0/5 | PDF ❌
+- [x] #003 | https://www.grab.careers/en/jobs/744000120321707/lead-data-scientist-grabmart/ | Grab | Lead Data Scientist (GrabMart) | 2.5/5 | PDF ❌
+- [x] #004 | https://www.grab.careers/en/jobs/744000088522025/senior-data-scientist-business-transaction-platform/ | Grab | Senior Data Scientist (Business & Transaction Platform) | 3.5/5 | PDF ❌
+- [x] #005 | https://www.grab.careers/en/jobs/744000077806135/lead-data-scientist-llm-post-training/ | Grab | Lead Data Scientist (LLM Post Training) | 2.5/5 | PDF ❌
+- [x] #006 | https://www.grab.careers/en/jobs/744000087818132/lead-machine-learning-engineer-fulfilment/ | Grab | Lead Machine Learning Engineer (Fulfilment) | 1.5/5 | PDF ❌
+- [x] #007 | https://www.grab.careers/en/jobs/744000069489988/lead-machine-learning-engineer-ads/ | Grab | Lead Machine Learning Engineer (Ads) | 2.0/5 | PDF ❌
+- [x] #008 | https://www.grab.careers/en/jobs/744000047978395/lead-data-scientist-supply-planning/ | Grab | Lead Data Scientist (Supply Planning) | 2.0/5 | PDF ❌
