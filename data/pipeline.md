@@ -1,14 +1,14 @@
 # Pipeline — URL Inbox
 
 ## Pending
-- [ ] https://www.grab.careers/en/jobs/744000112454626/senior-data-scientist-supply-planning/ | Grab | Senior Data Scientist (Supply Planning)
-- [ ] https://www.grab.careers/en/jobs/744000057527178/senior-data-scientist-deliveries-ace/ | Grab | Senior Data Scientist (Deliveries & ACE)
-- [ ] https://careers.google.com/jobs/results/85431139474252486-software-engineer-machine-learning/ | Google Singapore | Software Engineer, Machine Learning
-- [ ] https://careers.google.com/jobs/results/112314523246830278-staff-software-engineer/ | Google Singapore | Staff Software Engineer, Information Security Engineering
-- [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
-- [ ] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer
-- [ ] https://jobs.careers.gov.sg/jobs/hrp/16708421/005056a3-d347-1fe0-ac89-b910a7d0e280 | GovTech | Software Engineer (Full Stack), AI Programme
-- [ ] https://career.sea.com/position/J00291233 | Sea Labs | AI Solutions Engineer
+- [x] #009 | https://www.grab.careers/en/jobs/744000112454626/senior-data-scientist-supply-planning/ | Grab | Senior Data Scientist (Supply Planning) | 2.5/5 | PDF ❌
+- [x] #010 | https://www.grab.careers/en/jobs/744000057527178/senior-data-scientist-deliveries-ace/ | Grab | Senior Data Scientist (Deliveries & ACE) | 2.0/5 | PDF ❌
+- [x] #011 | https://careers.google.com/jobs/results/85431139474252486-software-engineer-machine-learning/ | Google Singapore | Software Engineer, Machine Learning | 3.5/5 | PDF ❌
+- [x] #012 | https://careers.google.com/jobs/results/112314523246830278-staff-software-engineer/ | Google Singapore | Staff Software Engineer, Information Security Engineering | 1.5/5 | PDF ❌
+- [x] #013 | https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer | 4.5/5 | PDF ❌
+- [x] #014 | https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer | 3.8/5 | PDF ❌
+- [x] #015 | https://jobs.careers.gov.sg/jobs/hrp/16708421/005056a3-d347-1fe0-ac89-b910a7d0e280 | GovTech | Software Engineer (Full Stack), AI Programme | 3.5/5 | PDF ❌
+- [x] #016 | https://career.sea.com/position/J00291233 | Sea Labs | AI Solutions Engineer | 4.3/5 | PDF ❌
 - [ ] https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-graduate-2026-start-bytedance-425c3eaaf0155f637230cadca6bb1aae | ByteDance | Machine Learning Engineer Graduate (2026 Start)
 - [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-machine-learning-engineer-graduate-2026-start-bytedance-59a3671c968e73d69c9f0f6ff8cf498a | ByteDance | AI Machine Learning Engineer Graduate — Search (2026 Start)
 - [ ] https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-graduate-2026-start-tiktok-9c7f28f52ff2e82266099d1bb816fee0 | TikTok | Machine Learning Engineer Graduate (TikTok Shop, 2026 Start)
