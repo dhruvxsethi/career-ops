@@ -52,6 +52,42 @@
 - [ ] https://www.grab.careers/en/jobs/744000054343713/senior-machine-learning-engineer-foundation-models/ | Grab | Senior Machine Learning Engineer, Foundation Models
 - [ ] https://www.grab.careers/en/jobs/744000056289445/principal-machine-learning-engineer-ai-platform-model-customization/ | Grab | Principal Machine Learning Engineer, AI Platform (Model Customization)
 
+- [ ] https://jobs.paloaltonetworks.com/en/job/singapore/ai-security-solutions-architect/47263/77863963840 | Palo Alto Networks | AI Security Solutions Architect
+- [ ] https://jobs.ashbyhq.com/openai/823fe212-7774-4387-a24b-b52f54c25fa3 | OpenAI | Forward Deployed Engineer - Singapore
+- [ ] https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae | Cohere | Applied AI Engineer - Agentic Workflows (Singapore)
+- [ ] https://jobs.lever.co/mistral/c41d9d9e-f0ea-4621-a4a9-3f10dfa9ae84 | Mistral AI | Applied Scientist / Research Engineer - Singapore
+- [ ] https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d | Mistral AI | Applied AI, Forward Deployed ML Engineer - Singapore
+- [ ] https://jobs.lever.co/mistral/825819e9-dc32-4eb5-9d9b-1b8dbbcb1496 | Mistral AI | Applied Scientist / Research Engineer - Multimodal (Singapore)
+- [ ] https://jobs.lever.co/mistral/55c2e8f4-a3ea-4e59-9ccf-dac2fee26c65 | Mistral AI | AI Deployment Strategist - Singapore
+- [ ] https://jobs.lever.co/mistral/2414ad08-5756-4875-afb5-04d26464b397 | Mistral AI | CyberSecurity, Offensive Security Engineer
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/17430206/005056a3-53e2-1fd1-8e94-6b1318fd33ec | GovTech | Lead Engineer, AI Infrastructure, xCloud
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/16363684/71f11bf1-192d-1fe0-9cf9-7ffad6b8c255 | GovTech | Senior Data Scientist, Singpass
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/15377258/005056a3-d347-1fe0-aad9-b163b080827f | GovTech | Data Scientist, AI Practice (Forward Deployed Team)
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/15079033/005056a3-53e2-1fd1-80da-0b89db1e13e7 | GovTech | Data Scientist, Responsible AI
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/15143897/735ab786-ae28-1eef-a7c1-dbce7d7b21f9 | GovTech | Data Scientist, DAIP
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/15340820/bd622d52-6b55-1eef-ad81-f170ed6b6206 | GovTech | Software Engineer, DAIP
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/15079034/93116810-a25b-1edf-9ac6-46658febb35f | GovTech | Data Scientist, Responsible AI (2)
+- [ ] https://nodeflair.com/jobs/google-partner-engineer-specialist-machine-learning-and-artificial-intelligence-singapore-186017 | Google | Partner Engineer Specialist, ML and AI
+- [ ] https://nodeflair.com/jobs/goldman-sachs-core-engineering-applied-ai-senior-ai-ml-quant-research-engineer-vice-president-singapore-496806 | Goldman Sachs | Senior AI/ML Quant Research Engineer, VP
+- [ ] https://nodeflair.com/jobs/publicis-groupe-singapore-ai-ml-engineer-403557 | Publicis Groupe | AI/ML Engineer
+- [ ] https://www.grab.careers/en/jobs/744000012038525/principal-machine-learning-engineer-ads/ | Grab | Principal Machine Learning Engineer (Ads)
+- [ ] https://www.grab.careers/en/jobs/744000096975526/senior-data-scientist/ | Grab | Senior Data Scientist
+- [ ] https://sg.linkedin.com/jobs/view/research-engineer-ai-ml-computing-and-intelligence-ihpc-at-a-star-agency-for-science-technology-and-research-3391412608 | A*STAR | Research Engineer (AI/ML), IHPC
+- [ ] https://sg.linkedin.com/jobs/view/research-engineer-ai-ml-computing-and-intelligence-ihpc-at-a-star-research-entities-3795317777 | A*STAR Research Entities | Research Engineer (AI/ML), IHPC
+- [ ] https://www.mycareersfuture.gov.sg/job/ai-algorithm-engineer-kaneze-international-group-de16cc718f83ca0603616ee803b68f05 | Kaneze International | AI Algorithm Engineer (LLM & RAG)
+- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineer-machine-learning-engineer-talentsis-cb1f8ac4ff9d92bfb7613b073947c7e0 | TalentSIS | AI Engineer / Machine Learning Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-machine-learning-engineer-talentsis-ffe746f27657348b8ee0ecc45992707a | TalentSIS | AI / Machine Learning Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/cybersecurity-engineer-talentsis-f55cace8df0c3794a99a2669683d193e | TalentSIS | Cybersecurity Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/cybersecurity-security-engineer-tangspac-consulting-08c71ca1e3524aa301167a5180fd5f67 | Tangspac Consulting | Cybersecurity Security Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/639878f2-c0a5-4d88-89ea-3487e2623f47 | LangChain | AI Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d | LangChain | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/38a3523d-b474-4db6-b9c5-9e6be00a3291 | LangChain | Platform Engineer - LangSmith Ingestion
+- [ ] https://boards.greenhouse.io/nansen/jobs/5118185004 | Nansen.ai | Senior AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101 | Axiomatic_AI | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8429043002 | AlphaSense | Senior Staff Engineer, AI
+- [ ] https://job-boards.greenhouse.io/yipitdata/jobs/3907051 | YipitData | AI Engineer
+- [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer
+
 ## Processed
 
 - [x] #001 | https://www.grab.careers/en/jobs/744000107446310/senior-data-scientist-grabmaps/ | Grab | Senior Data Scientist (GrabMaps) | 2.5/5 | PDF ❌
