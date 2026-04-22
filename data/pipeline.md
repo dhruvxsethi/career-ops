@@ -9,14 +9,14 @@
 - [x] #014 | https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer | 3.8/5 | PDF ❌
 - [x] #015 | https://jobs.careers.gov.sg/jobs/hrp/16708421/005056a3-d347-1fe0-ac89-b910a7d0e280 | GovTech | Software Engineer (Full Stack), AI Programme | 3.5/5 | PDF ❌
 - [x] #016 | https://career.sea.com/position/J00291233 | Sea Labs | AI Solutions Engineer | 4.3/5 | PDF ❌
-- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-graduate-2026-start-bytedance-425c3eaaf0155f637230cadca6bb1aae | ByteDance | Machine Learning Engineer Graduate (2026 Start)
-- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-machine-learning-engineer-graduate-2026-start-bytedance-59a3671c968e73d69c9f0f6ff8cf498a | ByteDance | AI Machine Learning Engineer Graduate — Search (2026 Start)
-- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-graduate-2026-start-tiktok-9c7f28f52ff2e82266099d1bb816fee0 | TikTok | Machine Learning Engineer Graduate (TikTok Shop, 2026 Start)
-- [ ] https://jobs.bytedance.com/en/position/detail/7515484126905174280 | ByteDance | Research Scientist — Generative AI for Science
-- [ ] https://jobs.bytedance.com/en/mobile/position/detail/7325706453058603301 | ByteDance | Researcher — Large Language Models, Applied ML
-- [ ] https://nodeflair.com/jobs/boston-consulting-group-senior-lead-ai-engineer-bcg-x-singapore-411133 | BCG X | Senior/Lead AI Engineer (BCG X Singapore)
-- [ ] https://www.nodeflair.com/jobs/goldman-sachs-machine-learning-engineer-singapore-56953 | Goldman Sachs | Machine Learning Engineer
-- [ ] https://kube.careers/machine-learning-engineer-ensign-infosecurity-ht1 | Ensign InfoSecurity | Machine Learning Engineer
+- [x] #017 | https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-graduate-2026-start-bytedance-425c3eaaf0155f637230cadca6bb1aae | ByteDance | Machine Learning Engineer Graduate (2026 Start) | 3.5/5 | PDF ❌
+- [x] #018 | https://www.mycareersfuture.gov.sg/job/information-technology/ai-machine-learning-engineer-graduate-2026-start-bytedance-59a3671c968e73d69c9f0f6ff8cf498a | ByteDance | AI Machine Learning Engineer Graduate — Search (2026 Start) | 3.2/5 | PDF ❌
+- [x] #019 | https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-graduate-2026-start-tiktok-9c7f28f52ff2e82266099d1bb816fee0 | TikTok | Machine Learning Engineer Graduate (TikTok Shop, 2026 Start) | 3.2/5 | PDF ❌
+- [x] #020 | https://jobs.bytedance.com/en/position/detail/7515484126905174280 | ByteDance | Research Scientist — Generative AI for Science | 1.5/5 | PDF ❌
+- [x] #021 | https://jobs.bytedance.com/en/mobile/position/detail/7325706453058603301 | ByteDance | Researcher — Large Language Models, Applied ML | 1.5/5 | PDF ❌
+- [x] #022 | https://nodeflair.com/jobs/boston-consulting-group-senior-lead-ai-engineer-bcg-x-singapore-411133 | BCG X | Senior/Lead AI Engineer (BCG X Singapore) | 3.2/5 | PDF ❌
+- [x] #023 | https://www.nodeflair.com/jobs/goldman-sachs-machine-learning-engineer-singapore-56953 | Goldman Sachs | Machine Learning Engineer | 3.8/5 | PDF ❌
+- [x] #024 | https://kube.careers/machine-learning-engineer-ensign-infosecurity-ht1 | Ensign InfoSecurity | Machine Learning Engineer | 4.3/5 | PDF ❌
 - [ ] https://www.mycareersfuture.gov.sg/job/information-technology/security-engineer-ensign-infosecurity-7e1e79d72ce243d44fcf2d5b59764582 | Ensign InfoSecurity | Security Engineer
 - [ ] https://jobs.careers.gov.sg/jobs/hrp/15719225/19778bb1-2026-1fd0-89b5-25b562f5d3a4 | DSTA | Software Engineer (Intelligence Analysis Applications Development)
 - [ ] https://www.nodeflair.com/jobs/jpmorgan-chase-co-site-reliability-engineer-ai-machine-learning-singapore-52416 | JP Morgan | Site Reliability Engineer, AI/Machine Learning

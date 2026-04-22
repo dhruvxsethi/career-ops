@@ -2,6 +2,14 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 17 | 2026-04-22 | ByteDance | Machine Learning Engineer Graduate (2026 Start) | 3.5/5 | Evaluated | ❌ | [17](reports/017-bytedance-mle-graduate-2026-04-22.md) | MS-level grad ML role; e-commerce focus less aligned; EP likely but layoff concerns |
+| 18 | 2026-04-22 | ByteDance | AI Machine Learning Engineer Graduate — Search (2026 Start) | 3.2/5 | Evaluated | ❌ | [18](reports/018-bytedance-ai-mle-graduate-search-2026-04-22.md) | Search/ranking focus; less direct fit vs security/RAG profile; same ByteDance concerns |
+| 19 | 2026-04-22 | TikTok | Machine Learning Engineer Graduate, TikTok Shop (2026 Start) | 3.2/5 | Evaluated | ❌ | [19](reports/019-tiktok-mle-graduate-tiktokshop-2026-04-22.md) | E-commerce ML; risk control angle has security overlap; ByteDance parent uncertainty |
+| 20 | 2026-04-22 | ByteDance | Research Scientist — Generative AI for Science | 1.5/5 | SKIP | ❌ | [20](reports/020-bytedance-research-scientist-genai-science-2026-04-22.md) | Hard blockers: PhD required + AI-for-Science domain (biology/chemistry) not aligned |
+| 21 | 2026-04-22 | ByteDance | Researcher — Large Language Models, Applied ML | 1.5/5 | SKIP | ❌ | [21](reports/021-bytedance-researcher-llm-applied-ml-2026-04-22.md) | Dual hard blockers: no EP sponsorship + PhD required; do not apply |
+| 22 | 2026-04-22 | BCG X | Senior/Lead AI Engineer | 3.2/5 | Evaluated | ❌ | [22](reports/022-bcg-x-senior-lead-ai-engineer-2026-04-22.md) | 5-8yr required vs 2yr exp; consider BCG X AI Engineer (non-Senior) instead |
+| 23 | 2026-04-22 | Goldman Sachs | Machine Learning Engineer | 3.8/5 | Evaluated | ❌ | [23](reports/023-goldman-sachs-mle-2026-04-22.md) | Finance ML at top bank; fintech background helps; strong comp; EP standard at GS |
+| 24 | 2026-04-22 | Ensign InfoSecurity | Machine Learning Engineer | 4.3/5 | Evaluated | ❌ | [24](reports/024-ensign-infosecurity-mle-2026-04-22.md) | Top pick: AI/ML for cybersecurity = perfect PAN internship match; Temasek-backed EP; adversarial ML differentiator |
 | 11 | 2026-04-19 | Google Singapore | Software Engineer, Machine Learning | 3.5/5 | Evaluated | ❌ | [011](reports/011-google-swe-ml-2026-04-19.md) | Strong role fit; verify JD domain + EP; needs 2-3mo interview prep |
 | 12 | 2026-04-19 | Google Singapore | Staff Software Engineer, Information Security Engineering | 1.5/5 | SKIP | ❌ | [012](reports/012-google-staff-swe-ise-2026-04-19.md) | Hard blocked: requires 8yr exp; Staff (L6); EP note; domain mismatch |
 | 13 | 2026-04-19 | Palantir | Forward Deployed AI Engineer | 4.5/5 | Evaluated | ❌ | [013](reports/013-palantir-fdae-2026-04-19.md) | Perfect archetype match; PAN exp IS the job; verify SG location; apply |
