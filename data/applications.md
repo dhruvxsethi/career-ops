@@ -2,6 +2,12 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 25 | 2026-04-25 | Ensign InfoSecurity | Security Engineer | 2.5/5 | Evaluated | ❌ | [025](reports/025-ensign-infosecurity-2026-04-25.md) | Traditional IT security (PAM/IAM); no AI/ML component; comp below target — skip |
+| 26 | 2026-04-25 | DSTA | Software Engineer (Intelligence Analysis) | 1.5/5 | Evaluated | ❌ | [026](reports/026-dsta-2026-04-25.md) | Hard blocker: Singapore citizenship required for defence intelligence security clearance |
+| 27 | 2026-04-25 | JPMorgan Chase | Site Reliability Engineer, AI/Machine Learning | 3.8/5 | Evaluated | ❌ | [027](reports/027-jpmorgan-chase-2026-04-25.md) | OmniAI SRE role — strong infra + AI match; comp above target; gap is formal SRE experience |
+| 29 | 2026-04-25 | Graphene Services | Machine Learning Engineer | 2.8/5 | Evaluated | ❌ | [029](reports/029-graphene-services-2026-04-25.md) | NLP analytics company; NodeJS primary (friction); small firm; EP unconfirmed; comp likely below target |
+| 31 | 2026-04-25 | GK Consulting | AI Security Engineer (Agent & LLM Security) | 3.8/5 | Evaluated | ❌ | [031](reports/031-gk-consulting-2026-04-25.md) | Perfect archetype match (LLM/agent security = PAN work); small firm; verify EP before applying |
+| 32 | 2026-04-25 | AiKonic Future Technology | LLM Engineer / AI Engineer | 2.5/5 | Evaluated | ❌ | [032](reports/032-aikonic-2026-04-25.md) | 10-month-old company; Scam.SG flag on related entity; hardware/LLM mismatch; skip |
 | 17 | 2026-04-22 | ByteDance | Machine Learning Engineer Graduate (2026 Start) | 3.5/5 | Evaluated | ❌ | [17](reports/017-bytedance-mle-graduate-2026-04-22.md) | MS-level grad ML role; e-commerce focus less aligned; EP likely but layoff concerns |
 | 18 | 2026-04-22 | ByteDance | AI Machine Learning Engineer Graduate — Search (2026 Start) | 3.2/5 | Evaluated | ❌ | [18](reports/018-bytedance-ai-mle-graduate-search-2026-04-22.md) | Search/ranking focus; less direct fit vs security/RAG profile; same ByteDance concerns |
 | 19 | 2026-04-22 | TikTok | Machine Learning Engineer Graduate, TikTok Shop (2026 Start) | 3.2/5 | Evaluated | ❌ | [19](reports/019-tiktok-mle-graduate-tiktokshop-2026-04-22.md) | E-commerce ML; risk control angle has security overlap; ByteDance parent uncertainty |

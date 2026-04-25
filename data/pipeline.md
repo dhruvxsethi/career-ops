@@ -17,15 +17,15 @@
 - [x] #022 | https://nodeflair.com/jobs/boston-consulting-group-senior-lead-ai-engineer-bcg-x-singapore-411133 | BCG X | Senior/Lead AI Engineer (BCG X Singapore) | 3.2/5 | PDF ❌
 - [x] #023 | https://www.nodeflair.com/jobs/goldman-sachs-machine-learning-engineer-singapore-56953 | Goldman Sachs | Machine Learning Engineer | 3.8/5 | PDF ❌
 - [x] #024 | https://kube.careers/machine-learning-engineer-ensign-infosecurity-ht1 | Ensign InfoSecurity | Machine Learning Engineer | 4.3/5 | PDF ❌
-- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/security-engineer-ensign-infosecurity-7e1e79d72ce243d44fcf2d5b59764582 | Ensign InfoSecurity | Security Engineer
-- [ ] https://jobs.careers.gov.sg/jobs/hrp/15719225/19778bb1-2026-1fd0-89b5-25b562f5d3a4 | DSTA | Software Engineer (Intelligence Analysis Applications Development)
-- [ ] https://www.nodeflair.com/jobs/jpmorgan-chase-co-site-reliability-engineer-ai-machine-learning-singapore-52416 | JP Morgan | Site Reliability Engineer, AI/Machine Learning
+- [x] #025 | https://www.mycareersfuture.gov.sg/job/information-technology/security-engineer-ensign-infosecurity-7e1e79d72ce243d44fcf2d5b59764582 | Ensign InfoSecurity | Security Engineer | 2.5/5 | PDF ❌
+- [x] #026 | https://jobs.careers.gov.sg/jobs/hrp/15719225/19778bb1-2026-1fd0-89b5-25b562f5d3a4 | DSTA | Software Engineer (Intelligence Analysis Applications Development) | 1.5/5 | PDF ❌
+- [x] #027 | https://www.nodeflair.com/jobs/jpmorgan-chase-co-site-reliability-engineer-ai-machine-learning-singapore-52416 | JPMorgan Chase | Site Reliability Engineer, AI/Machine Learning | 3.8/5 | PDF ❌
 
-- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-machine-learning-engineer-graduate-2026-start-tiktok-ca8643230c56735610c2c945d390b4ee | TikTok | AI Machine Learning Engineer Graduate (TikTok Search)
-- [ ] https://www.mycareersfuture.gov.sg/job/engineering/machine-learning-engineer-graphene-services-1f2dedd3fd446af8a18a9ab3a6eb87ea | Graphene Services | Machine Learning Engineer
-- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-ai-search-bytedance-0e23222b7094a1dbab23f703eff7557f | ByteDance | Machine Learning Engineer, AI Search
-- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-security-engineer-gk-consulting-bf80280ae4f0c9c0addd7511e9969a25 | GK Consulting | AI Security Engineer (Agent & LLM Security)
-- [ ] https://www.mycareersfuture.gov.sg/job/llm-engineer-ai-engineer-aikonic-future-technology-edaafd301ba3c3d5bb6c026d38028ac3 | AiKonic Future Technology | LLM Engineer / AI Engineer
+- [x] #028 | https://www.mycareersfuture.gov.sg/job/information-technology/ai-machine-learning-engineer-graduate-2026-start-tiktok-ca8643230c56735610c2c945d390b4ee | TikTok | AI Machine Learning Engineer Graduate (TikTok Search) | 3.2/5 | PDF ❌
+- [x] #029 | https://www.mycareersfuture.gov.sg/job/engineering/machine-learning-engineer-graphene-services-1f2dedd3fd446af8a18a9ab3a6eb87ea | Graphene Services | Machine Learning Engineer | 2.8/5 | PDF ❌
+- [x] #030 | https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-ai-search-bytedance-0e23222b7094a1dbab23f703eff7557f | ByteDance | Machine Learning Engineer, AI Search | 3.0/5 | PDF ❌
+- [x] #031 | https://www.mycareersfuture.gov.sg/job/information-technology/ai-security-engineer-gk-consulting-bf80280ae4f0c9c0addd7511e9969a25 | GK Consulting | AI Security Engineer (Agent & LLM Security) | 3.8/5 | PDF ❌
+- [x] #032 | https://www.mycareersfuture.gov.sg/job/llm-engineer-ai-engineer-aikonic-future-technology-edaafd301ba3c3d5bb6c026d38028ac3 | AiKonic Future Technology | LLM Engineer / AI Engineer | 2.5/5 | PDF ❌
 - [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-security-specialist-persolkelly-singapore-72ce82bba4d6747c13a5c684dc728be6 | PersolKelly | AI Security Specialist
 - [ ] https://www.mycareersfuture.gov.sg/job/sciences/software-engineer-national-cybersecurity-research-development-lab-national-university-singapore-1ae3d1afd4937331f6b65dec5d4b428e | NUS | Software Engineer, National Cybersecurity R&D Lab
 - [ ] https://www.mycareersfuture.gov.sg/job/associate-cyber-security-engineer-technology-services-dbs-bank-003ae7f8322eddcd5c55293166214209 | DBS Bank | Associate, Cyber Security Engineer
