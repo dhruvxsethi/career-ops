@@ -88,6 +88,21 @@
 - [ ] https://job-boards.greenhouse.io/yipitdata/jobs/3907051 | YipitData | AI Engineer
 - [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4843110101 | Remote People | AI Engineer
 
+- [ ] https://www.mycareersfuture.gov.sg/job/engineering/ai-scientist-llm-ai-agent-duotech-bc1a0ff6755725703993e2b9fccc0399 | Duotech | AI Scientist - LLM & AI Agent
+- [ ] https://job-boards.greenhouse.io/aift/jobs/5820463004 | AIFT | Machine Learning Engineer Lead, Vulcan (Global)
+- [ ] https://job-boards.greenhouse.io/simplifynext/jobs/5019281007 | SimplifyNext | AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | Anthropic Fellows Program — AI Security
+- [ ] https://jobs.lever.co/mistral/80358670-36c7-4b00-85f9-9051dc8a341e | Mistral AI | Applied AI Engineer, Senior/Staff DevOps/SRE - Singapore
+- [ ] https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c | Mistral AI | Applied AI Engineer, ML Infra - Singapore
+- [ ] https://jobs.lever.co/GoToGroup/34f6146a-c482-407c-a31c-72ac9bb90a7c | GoTo Group | Senior Data Scientist (Singapore)
+- [ ] https://jobs.bytedance.com/en/position/7612489167357184309/detail | ByteDance | Solutions Architect - BytePlus - Singapore
+- [ ] https://career.sea.com/position/J02001920 | Sea Labs | Research Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/cybersecurity-engineer-knovel-engineering-b8ca15e23b8741af38319ae7702df662 | Knovel Engineering | Cybersecurity Engineer
+- [ ] https://job-boards.greenhouse.io/singlestore/jobs/6824568 | SingleStore | AI Security Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6d3333c9-fdec-401c-bacf-b9d2436d688f | ElevenLabs | AI Safety Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer
+- [ ] https://sg.linkedin.com/jobs/view/data-scientist-ai-lab-at-ocbc-4099747204 | OCBC | Data Scientist, AI Lab
+
 ## Processed
 
 - [x] #001 | https://www.grab.careers/en/jobs/744000107446310/senior-data-scientist-grabmaps/ | Grab | Senior Data Scientist (GrabMaps) | 2.5/5 | PDF ❌
