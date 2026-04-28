@@ -26,14 +26,14 @@
 - [x] #030 | https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-ai-search-bytedance-0e23222b7094a1dbab23f703eff7557f | ByteDance | Machine Learning Engineer, AI Search | 3.0/5 | PDF ❌
 - [x] #031 | https://www.mycareersfuture.gov.sg/job/information-technology/ai-security-engineer-gk-consulting-bf80280ae4f0c9c0addd7511e9969a25 | GK Consulting | AI Security Engineer (Agent & LLM Security) | 3.8/5 | PDF ❌
 - [x] #032 | https://www.mycareersfuture.gov.sg/job/llm-engineer-ai-engineer-aikonic-future-technology-edaafd301ba3c3d5bb6c026d38028ac3 | AiKonic Future Technology | LLM Engineer / AI Engineer | 2.5/5 | PDF ❌
-- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-security-specialist-persolkelly-singapore-72ce82bba4d6747c13a5c684dc728be6 | PersolKelly | AI Security Specialist
-- [ ] https://www.mycareersfuture.gov.sg/job/sciences/software-engineer-national-cybersecurity-research-development-lab-national-university-singapore-1ae3d1afd4937331f6b65dec5d4b428e | NUS | Software Engineer, National Cybersecurity R&D Lab
-- [ ] https://www.mycareersfuture.gov.sg/job/associate-cyber-security-engineer-technology-services-dbs-bank-003ae7f8322eddcd5c55293166214209 | DBS Bank | Associate, Cyber Security Engineer
-- [ ] https://www.mycareersfuture.gov.sg/job/information-technology-cyber-security-engineer-singapore-airlines-b0c9cad5cddb0eec06e52871bf26fc4f | Singapore Airlines | Cyber Security Engineer
-- [ ] https://job-boards.greenhouse.io/temus/jobs/5180775008 | Temus | Senior AI Engineer
-- [ ] https://job-boards.greenhouse.io/temus/jobs/5180599008 | Temus | AI Engineer
-- [ ] https://job-boards.greenhouse.io/OKX/jobs/6690158003 | OKX | Principal AI Engineer, AI Agent Development
-- [ ] https://job-boards.greenhouse.io/simplifynext/jobs/4996764007 | SimplifyNext | AI Engineer
+- [x] #033 | https://www.mycareersfuture.gov.sg/job/information-technology/ai-security-specialist-persolkelly-singapore-72ce82bba4d6747c13a5c684dc728be6 | PersolKelly | AI Security Specialist | 3.5/5 | PDF ❌
+- [x] #034 | https://www.mycareersfuture.gov.sg/job/sciences/software-engineer-national-cybersecurity-research-development-lab-national-university-singapore-1ae3d1afd4937331f6b65dec5d4b428e | NUS | Software Engineer, National Cybersecurity R&D Lab | 2.8/5 | PDF ❌
+- [x] #035 | https://www.mycareersfuture.gov.sg/job/associate-cyber-security-engineer-technology-services-dbs-bank-003ae7f8322eddcd5c55293166214209 | DBS Bank | Associate, Cyber Security Engineer | 2.5/5 | PDF ❌
+- [x] #036 | https://www.mycareersfuture.gov.sg/job/information-technology-cyber-security-engineer-singapore-airlines-b0c9cad5cddb0eec06e52871bf26fc4f | Singapore Airlines | Cyber Security Engineer | 2.0/5 | PDF ❌
+- [x] #037 | https://job-boards.greenhouse.io/temus/jobs/5180775008 | Temus | Senior AI Engineer | 3.5/5 | PDF ❌
+- [x] #038 | https://job-boards.greenhouse.io/temus/jobs/5180599008 | Temus | AI Engineer | 4.0/5 | PDF ❌
+- [x] #039 | https://job-boards.greenhouse.io/OKX/jobs/6690158003 | OKX | Principal AI Engineer, AI Agent Development | 1.0/5 | PDF ❌
+- [x] #040 | https://job-boards.greenhouse.io/simplifynext/jobs/4996764007 | SimplifyNext | AI Engineer | 3.5/5 | PDF ❌
 - [ ] https://job-boards.greenhouse.io/diligentcorporation/jobs/5543875004 | Diligent Corporation | AI Engineer II
 - [ ] https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
 - [ ] https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e | Palantir | Software Engineer, New Grad

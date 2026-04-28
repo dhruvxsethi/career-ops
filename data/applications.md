@@ -2,6 +2,14 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 33 | 2026-04-28 | PersolKelly | AI Security Specialist | 3.5/5 | Evaluated | ❌ | [033](reports/033-persolkelly-ai-security-specialist-2026-04-28.md) | AI Security role via staffing firm; JD unavailable (403); title is strong match for PAN background; confirm EP + end client before applying |
+| 34 | 2026-04-28 | NUS | Software Engineer, National Cybersecurity R&D Lab | 2.8/5 | Evaluated | ❌ | [034](reports/034-nus-software-engineer-cybersecurity-rdlab-2026-04-28.md) | 2yr renewable contract; SWE for cybersecurity lab; limited AI component; NUS brand + EP guaranteed; fallback option only |
+| 35 | 2026-04-28 | DBS Bank | Associate, Cyber Security Engineer | 2.5/5 | SKIP | ❌ | [035](reports/035-dbs-bank-associate-cyber-security-engineer-2026-04-28.md) | Traditional SOC role; no AI/ML component (deal-breaker); skip |
+| 36 | 2026-04-28 | Singapore Airlines | Cyber Security Engineer | 2.0/5 | SKIP | ❌ | [036](reports/036-singapore-airlines-cyber-security-engineer-2026-04-28.md) | Traditional appsec; 4-5yr exp required (Dhruv has 2); no AI component; skip |
+| 37 | 2026-04-28 | Temus | Senior AI Engineer | 3.5/5 | Evaluated | ❌ | [037](reports/037-temus-senior-ai-engineer-2026-04-28.md) | Temasek-backed GLC; Senior level above Dhruv but worth applying up; apply alongside #038 (AI Engineer same company) |
+| 38 | 2026-04-28 | Temus | AI Engineer | 4.0/5 | Evaluated | ❌ | [038](reports/038-temus-ai-engineer-2026-04-28.md) | Temasek-backed; right level fit; client-facing AI delivery for public/private sector; EP guaranteed; top pick this batch |
+| 39 | 2026-04-28 | OKX | Principal AI Engineer, AI Agent Development | 1.0/5 | SKIP | ❌ | [039](reports/039-okx-principal-ai-engineer-2026-04-28.md) | Hard blocker: no EP sponsorship; also 10yr exp required; skip |
+| 40 | 2026-04-28 | SimplifyNext | AI Engineer | 3.5/5 | Evaluated | ❌ | [040](reports/040-simplifynext-ai-engineer-2026-04-28.md) | ASEAN AI/automation consultancy; GenAI+agentic focus; JD unavailable (403); confirm EP + full JD before applying |
 | 25 | 2026-04-25 | Ensign InfoSecurity | Security Engineer | 2.5/5 | Evaluated | ❌ | [025](reports/025-ensign-infosecurity-2026-04-25.md) | Traditional IT security (PAM/IAM); no AI/ML component; comp below target — skip |
 | 26 | 2026-04-25 | DSTA | Software Engineer (Intelligence Analysis) | 1.5/5 | Evaluated | ❌ | [026](reports/026-dsta-2026-04-25.md) | Hard blocker: Singapore citizenship required for defence intelligence security clearance |
 | 27 | 2026-04-25 | JPMorgan Chase | Site Reliability Engineer, AI/Machine Learning | 3.8/5 | Evaluated | ❌ | [027](reports/027-jpmorgan-chase-2026-04-25.md) | OmniAI SRE role — strong infra + AI match; comp above target; gap is formal SRE experience |
