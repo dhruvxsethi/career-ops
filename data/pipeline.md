@@ -103,6 +103,28 @@
 - [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer
 - [ ] https://sg.linkedin.com/jobs/view/data-scientist-ai-lab-at-ocbc-4099747204 | OCBC | Data Scientist, AI Lab
 
+- [ ] https://www.grab.careers/en/jobs/744000084560855/principal-machine-learning-engineer-ai-platform-ai-infrastructure/ | Grab | Principal Machine Learning Engineer, AI Platform (AI Infrastructure)
+- [ ] https://www.mycareersfuture.gov.sg/job/engineering/machine-learning-engineer-nlp-sales-apple-south-asia-d728704e2ea2c22b00be39f82d23393f | Apple South Asia | Machine Learning Engineer, NLP - Sales
+- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-silverlink-technologies-2c2c0943aa385834eee8f37da578ede6 | Silverlink Technologies | Machine Learning Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/ai-engineer-ltm-singapore-branch-dee060215dd0b1ba785bfd4a36e3fcb4 | LTM Singapore | AI Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineer-ai-singapore-national-university-singapore-899ac41ff8b071c3bf40fb67f1db6762 | AISG / NUS | AI Engineer for AI Singapore (Innovation)
+- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/ai-search-product-manager-llm-based-search-recommendation-platform-byteplus-7b8195d843ca4f3f38620d347da8e4cf | BytePlus | AI Search Product Manager, LLM Platform
+- [ ] https://careers.singaporeair.com/sia/job/Information-Technology-Data-Scientist-(Data-Science-Track)/19663744/ | Singapore Airlines | Data Scientist (Data Science Track)
+- [ ] https://careers.singaporeair.com/sia/job/Information-Technology-Senior-Data-Scientist-(Advanced-AI-Track)/19657644/ | Singapore Airlines | Senior Data Scientist (Advanced AI Track)
+- [ ] https://careers.singaporeair.com/sia/job/Information-Technology-Senior-Data-Scientist-(Optimization-Track)/41973744/ | Singapore Airlines | Senior Data Scientist (Optimization Track)
+- [ ] https://www.mycareersfuture.gov.sg/job/cyber-security-engineer-percept-solutions-775654739575a83a2f79c5ecb90de431 | Percept Solutions | Cyber Security Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/ai-engineer-senior-ai-engineer-aisg-national-university-singapore-13c345b277476ec6d345cf46239a90fb | AISG / NUS | AI Engineer / Senior AI Engineer (100E)
+- [ ] https://job-boards.greenhouse.io/deepmind/jobs/7135034 | Google DeepMind | Research Scientist, Multimodal Generative AI
+- [ ] https://job-boards.greenhouse.io/deepmind/jobs/7392714 | Google DeepMind | Software Engineer, AI for Secure Code
+- [ ] https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a | Perplexity | AI Engineer, Applied ML
+- [ ] https://jobs.lever.co/malarianomore/afd6fda1-0713-4b83-bbde-f2a8c5cbae16 | Malaria No More Fund | Senior AI/ML Engineer (Singapore/Indonesia/India)
+- [ ] https://www.mycareersfuture.gov.sg/job/senior-ai-machine-learning-engineer-sgjobs-hr-8ffa87ffea51b5af4fbbc801519b6852 | SGJobs HR | Senior AI / Machine Learning Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/software-engineer-eth-singapore-sec-0b27fae7112c5bf9b73cb1075980819b | ETH Singapore SEC | Software Engineer
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8383434002 | AlphaSense | Staff Application Security Engineer
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7667849 | Cloudflare | Senior Software Engineer (Security)
+- [ ] https://www.mycareersfuture.gov.sg/job/automotive-cybersecurity-engineer-talenta-consultants-ce44559b434bc648f00cb766ac88e103 | Talenta Consultants | Automotive Cybersecurity Engineer
+
 ## Processed
 
 - [x] #001 | https://www.grab.careers/en/jobs/744000107446310/senior-data-scientist-grabmaps/ | Grab | Senior Data Scientist (GrabMaps) | 2.5/5 | PDF ❌
