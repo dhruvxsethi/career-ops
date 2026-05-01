@@ -34,14 +34,14 @@
 - [x] #038 | https://job-boards.greenhouse.io/temus/jobs/5180599008 | Temus | AI Engineer | 4.0/5 | PDF ❌
 - [x] #039 | https://job-boards.greenhouse.io/OKX/jobs/6690158003 | OKX | Principal AI Engineer, AI Agent Development | 1.0/5 | PDF ❌
 - [x] #040 | https://job-boards.greenhouse.io/simplifynext/jobs/4996764007 | SimplifyNext | AI Engineer | 3.5/5 | PDF ❌
-- [ ] https://job-boards.greenhouse.io/diligentcorporation/jobs/5543875004 | Diligent Corporation | AI Engineer II
-- [ ] https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
-- [ ] https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e | Palantir | Software Engineer, New Grad
-- [ ] https://jobs.lever.co/palantir/0b2dbe51-0d9f-47ee-9f24-82bff4654048 | Palantir | Backend Software Engineer
-- [ ] https://jobs.bytedance.com/en/position/detail/6704578738996119820 | ByteDance | Research Scientist in ML Systems
-- [ ] https://jobs.bytedance.com/en/mobile/position/detail/7509699437339691282 | ByteDance | Software Engineer, AI Infrastructure
-- [ ] https://careers.google.com/jobs/results/89925220315341510-machine-learning-engineer/ | Google Singapore | Machine Learning Engineer, Computer Vision
-- [ ] https://careers.google.com/jobs/results/118177052674138822-customer-engineer/ | Google Singapore | Customer Engineer, Platform AI/ML Google Cloud
+- [x] #041 | https://job-boards.greenhouse.io/diligentcorporation/jobs/5543875004 | Diligent Corporation | AI Engineer II (Python, AWS) | 3.2/5 | PDF ❌
+- [x] #042 | https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 | Palantir | Forward Deployed SWE, New Grad - Commercial | 4.2/5 | PDF ❌
+- [x] #043 | https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e | Palantir | Software Engineer, New Grad | 3.5/5 | PDF ❌
+- [x] #044 | https://jobs.lever.co/palantir/0b2dbe51-0d9f-47ee-9f24-82bff4654048 | Palantir | Backend Software Engineer | 3.0/5 | PDF ❌
+- [x] #045 | https://jobs.bytedance.com/en/position/detail/6704578738996119820 | ByteDance | Research Scientist in ML Systems | 1.5/5 | PDF ❌
+- [x] #046 | https://jobs.bytedance.com/en/mobile/position/detail/7509699437339691282 | ByteDance | Software Engineer, AI Infrastructure | 3.5/5 | PDF ❌
+- [x] #047 | https://careers.google.com/jobs/results/89925220315341510-machine-learning-engineer/ | Google Singapore | Machine Learning Engineer, Computer Vision | 1.5/5 | PDF ❌
+- [x] #048 | https://careers.google.com/jobs/results/118177052674138822-customer-engineer/ | Google Singapore | Customer Engineer, Platform AI/ML Google Cloud | 1.0/5 | PDF ❌
 - [ ] https://careers.google.com/jobs/results/81434368779657926-customer-engineer-machine-learning/ | Google Singapore | Customer Engineer, Machine Learning
 - [ ] https://www.metacareers.com/jobs/1701923063917583 | Meta | Research Scientist, Machine Learning (PhD) (Singapore)
 - [ ] https://www.metacareers.com/jobs/744557351706652 | Meta | Software Engineer, Product (Singapore)

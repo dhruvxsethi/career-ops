@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 41 | 2026-05-01 | Diligent Corporation | AI Engineer II (Python, AWS) | 3.2/5 | Evaluated | ❌ | [041](reports/041-diligent-corporation-2026-05-01.md) | LLMOps/agentic fit but location unconfirmed (may be India); AWS CDK/Bedrock gaps; verify Singapore before applying |
+| 46 | 2026-05-01 | ByteDance | Software Engineer, AI Infrastructure | 3.5/5 | Evaluated | ❌ | [046](reports/046-bytedance-swe-ai-infrastructure-2026-05-01.md) | Singapore confirmed, excellent comp (SGD 8-13K/mo), strong Go/Python match; seniority gap at 100M+ QPS scale; solid stretch application |
+| 48 | 2026-05-01 | Google Singapore | Customer Engineer, Platform AI/ML GCloud | 1.0/5 | SKIP | ❌ | [048](reports/048-google-customer-engineer-aiml-2026-05-01.md) | HARD BLOCKERS: no EP sponsorship + 6 years required; revisit in 4-5 years |
 | 33 | 2026-04-28 | PersolKelly | AI Security Specialist | 3.5/5 | Evaluated | ❌ | [033](reports/033-persolkelly-ai-security-specialist-2026-04-28.md) | AI Security role via staffing firm; JD unavailable (403); title is strong match for PAN background; confirm EP + end client before applying |
 | 34 | 2026-04-28 | NUS | Software Engineer, National Cybersecurity R&D Lab | 2.8/5 | Evaluated | ❌ | [034](reports/034-nus-software-engineer-cybersecurity-rdlab-2026-04-28.md) | 2yr renewable contract; SWE for cybersecurity lab; limited AI component; NUS brand + EP guaranteed; fallback option only |
 | 35 | 2026-04-28 | DBS Bank | Associate, Cyber Security Engineer | 2.5/5 | SKIP | ❌ | [035](reports/035-dbs-bank-associate-cyber-security-engineer-2026-04-28.md) | Traditional SOC role; no AI/ML component (deal-breaker); skip |
