@@ -2,6 +2,14 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 49 | 2026-05-04 | Google | Customer Engineer, Machine Learning | 2.0/5 | Evaluated | ❌ | [049](reports/049-google-customer-engineer-ml-2026-05-04.md) | Pre-sales CE role; 6yr req + wrong archetype for Dhruv |
+| 50 | 2026-05-04 | Meta | Research Scientist, ML (PhD) | 1.5/5 | Evaluated | ❌ | [050](reports/050-meta-research-scientist-ml-phd-2026-05-04.md) | PhD hard blocker; no publications |
+| 51 | 2026-05-04 | Meta | Software Engineer, Product | 3.0/5 | Evaluated | ❌ | [051](reports/051-meta-swe-product-2026-05-04.md) | Strong company, strong comp, but pure SWE with no AI/ML component |
+| 52 | 2026-05-04 | IMDA | Research Engineer (AI Red Team) | 3.5/5 | Evaluated | ❌ | [052](reports/052-imda-ai-red-team-2026-05-04.md) | Right archetype, target employer; verify posting still open (LinkedIn ID from 2023-2024) |
+| 53 | 2026-05-04 | Grab | Senior MLE (Business Observability) | 2.8/5 | Evaluated | ❌ | [053](reports/053-grab-sr-mle-business-observability-2026-05-04.md) | Analytics/observability ML; seniority gap; wrong ML subdomain |
+| 54 | 2026-05-04 | Grab | Senior MLE (Reinforcement Learning) | 1.8/5 | Evaluated | ❌ | [054](reports/054-grab-sr-mle-reinforcement-learning-2026-05-04.md) | RL specialization not in Dhruv stack; 5yr req |
+| 55 | 2026-05-04 | Grab | Principal MLE, AI Platform | 1.5/5 | Evaluated | ❌ | [055](reports/055-grab-principal-mle-ai-platform-2026-05-04.md) | Principal level, 8yr req; far too senior |
+| 56 | 2026-05-04 | Grab | Senior MLE, Foundation Models | 2.5/5 | Evaluated | ❌ | [056](reports/056-grab-sr-mle-foundation-models-2026-05-04.md) | 5yr req + distributed training gap; 3-4yr future role |
 | 41 | 2026-05-01 | Diligent Corporation | AI Engineer II (Python, AWS) | 3.2/5 | Evaluated | ❌ | [041](reports/041-diligent-corporation-2026-05-01.md) | LLMOps/agentic fit but location unconfirmed (may be India); AWS CDK/Bedrock gaps; verify Singapore before applying |
 | 46 | 2026-05-01 | ByteDance | Software Engineer, AI Infrastructure | 3.5/5 | Evaluated | ❌ | [046](reports/046-bytedance-swe-ai-infrastructure-2026-05-01.md) | Singapore confirmed, excellent comp (SGD 8-13K/mo), strong Go/Python match; seniority gap at 100M+ QPS scale; solid stretch application |
 | 48 | 2026-05-01 | Google Singapore | Customer Engineer, Platform AI/ML GCloud | 1.0/5 | SKIP | ❌ | [048](reports/048-google-customer-engineer-aiml-2026-05-01.md) | HARD BLOCKERS: no EP sponsorship + 6 years required; revisit in 4-5 years |

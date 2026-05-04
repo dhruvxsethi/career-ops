@@ -42,14 +42,14 @@
 - [x] #046 | https://jobs.bytedance.com/en/mobile/position/detail/7509699437339691282 | ByteDance | Software Engineer, AI Infrastructure | 3.5/5 | PDF ❌
 - [x] #047 | https://careers.google.com/jobs/results/89925220315341510-machine-learning-engineer/ | Google Singapore | Machine Learning Engineer, Computer Vision | 1.5/5 | PDF ❌
 - [x] #048 | https://careers.google.com/jobs/results/118177052674138822-customer-engineer/ | Google Singapore | Customer Engineer, Platform AI/ML Google Cloud | 1.0/5 | PDF ❌
-- [ ] https://careers.google.com/jobs/results/81434368779657926-customer-engineer-machine-learning/ | Google Singapore | Customer Engineer, Machine Learning
-- [ ] https://www.metacareers.com/jobs/1701923063917583 | Meta | Research Scientist, Machine Learning (PhD) (Singapore)
-- [ ] https://www.metacareers.com/jobs/744557351706652 | Meta | Software Engineer, Product (Singapore)
-- [ ] https://sg.linkedin.com/jobs/view/research-engineer-ai-red-team-at-imda-3798981536 | IMDA | Research Engineer (AI Red Team)
-- [ ] https://www.grab.careers/en/jobs/744000104834130/senior-machine-learning-engineer-business-observability-and-insights/ | Grab | Senior Machine Learning Engineer (Business Observability and Insights)
-- [ ] https://www.grab.careers/en/jobs/744000070013695/senior-machine-learning-engineer-reinforcement-learning/ | Grab | Senior Machine Learning Engineer (Reinforcement Learning)
-- [ ] https://www.grab.careers/en/jobs/744000044135785/principal-machine-learning-engineer-ai-platform/ | Grab | Principal Machine Learning Engineer, AI Platform
-- [ ] https://www.grab.careers/en/jobs/744000054343713/senior-machine-learning-engineer-foundation-models/ | Grab | Senior Machine Learning Engineer, Foundation Models
+- [x] #049 | https://careers.google.com/jobs/results/81434368779657926-customer-engineer-machine-learning/ | Google | Customer Engineer, Machine Learning | 2.0/5 | PDF ❌
+- [x] #050 | https://www.metacareers.com/jobs/1701923063917583 | Meta | Research Scientist, ML (PhD) | 1.5/5 | PDF ❌
+- [x] #051 | https://www.metacareers.com/jobs/744557351706652 | Meta | Software Engineer, Product | 3.0/5 | PDF ❌
+- [x] #052 | https://sg.linkedin.com/jobs/view/research-engineer-ai-red-team-at-imda-3798981536 | IMDA | Research Engineer (AI Red Team) | 3.5/5 | PDF ❌
+- [x] #053 | https://www.grab.careers/en/jobs/744000104834130/senior-machine-learning-engineer-business-observability-and-insights/ | Grab | Senior MLE (Business Observability) | 2.8/5 | PDF ❌
+- [x] #054 | https://www.grab.careers/en/jobs/744000070013695/senior-machine-learning-engineer-reinforcement-learning/ | Grab | Senior MLE (Reinforcement Learning) | 1.8/5 | PDF ❌
+- [x] #055 | https://www.grab.careers/en/jobs/744000044135785/principal-machine-learning-engineer-ai-platform/ | Grab | Principal MLE, AI Platform | 1.5/5 | PDF ❌
+- [x] #056 | https://www.grab.careers/en/jobs/744000054343713/senior-machine-learning-engineer-foundation-models/ | Grab | Senior MLE, Foundation Models | 2.5/5 | PDF ❌
 - [ ] https://www.grab.careers/en/jobs/744000056289445/principal-machine-learning-engineer-ai-platform-model-customization/ | Grab | Principal Machine Learning Engineer, AI Platform (Model Customization)
 
 - [ ] https://jobs.paloaltonetworks.com/en/job/singapore/ai-security-solutions-architect/47263/77863963840 | Palo Alto Networks | AI Security Solutions Architect
