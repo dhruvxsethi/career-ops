@@ -125,6 +125,18 @@
 - [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7667849 | Cloudflare | Senior Software Engineer (Security)
 - [ ] https://www.mycareersfuture.gov.sg/job/automotive-cybersecurity-engineer-talenta-consultants-ce44559b434bc648f00cb766ac88e103 | Talenta Consultants | Automotive Cybersecurity Engineer
 
+- [ ] https://www.grab.careers/en/jobs/744000112878250/data-scientist-analytics-mobility/ | Grab | Data Scientist (Analytics) - Mobility
+- [ ] https://www.grab.careers/en/jobs/744000055724005/senior-data-scientist-conversational-ai-grabsupport/ | Grab | Senior Data Scientist, Conversational AI (GrabSupport)
+- [ ] https://www.grab.careers/en/jobs/744000054488195/senior-data-scientist-search-personalisation/ | Grab | Senior Data Scientist (Search & Personalisation)
+- [ ] https://career.sea.com/position/J00218570 | Sea Labs | Research Engineer
+- [ ] https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850 | Palantir | Forward Deployed Software Engineer
+- [ ] https://careers.google.com/jobs/results/102301475132056262-ai-developer-engineer/ | Google Singapore | AI Developer Engineer, Cloud AI
+- [ ] https://www.mycareersfuture.gov.sg/job/senior-associate-cyber-security-engineer-cybersecurity-technology-operations-dbs-bank-ea575e8785a84c836787adc2f045870c | DBS Bank | Senior Associate, Cyber Security Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/cloud-security-engineer-star-career-consulting-e9e87cec35791ea99eac94f713448ef9 | Star Career Consulting | Cloud Security Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4669417005 | Glean | Machine Learning Engineer, LLM Evals & Observability
+- [ ] https://jobs.lever.co/mistral/15759765-cfd5-408b-8425-c631642bc1f7 | Mistral AI | AI Engineer, Product (Le Chat)
+- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-graduate-2026-start-tiktok-82053a00cafc2bcabc89f27d6e1881af | TikTok | Machine Learning Engineer Graduate (Recommendation)
+
 ## Processed
 
 - [x] #001 | https://www.grab.careers/en/jobs/744000107446310/senior-data-scientist-grabmaps/ | Grab | Senior Data Scientist (GrabMaps) | 2.5/5 | PDF ❌
