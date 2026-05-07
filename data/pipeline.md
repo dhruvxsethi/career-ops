@@ -137,6 +137,27 @@
 - [ ] https://jobs.lever.co/mistral/15759765-cfd5-408b-8425-c631642bc1f7 | Mistral AI | AI Engineer, Product (Le Chat)
 - [ ] https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-graduate-2026-start-tiktok-82053a00cafc2bcabc89f27d6e1881af | TikTok | Machine Learning Engineer Graduate (Recommendation)
 
+- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/lead-ai-security-architect-singapore-telecommunications-c7b845586e24eb2c9fbf7dd53ed81459 | Singtel | Lead AI Security Architect
+- [ ] https://groupcareers.singtel.com/job/AI-Engineer-Sing/1331122366/ | Singtel | AI Engineer (AIDA)
+- [ ] https://groupcareers.singtel.com/job/Data-&-AI-Platform-Engineer-AIDA-Sing/1327769266/ | Singtel | Data & AI Platform Engineer (AIDA)
+- [ ] https://www.mycareersfuture.gov.sg/job/information-technology/senior-agentic-ai-product-manager-st-engineering-info-security-d861e09e56a0ab9b76115ccd2bc2d3ab | ST Engineering Info Security | Senior Agentic AI Product Manager
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076477008 | Anthropic | Research Engineer / Scientist, Frontier Red Team (Cyber)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5062955008 | Anthropic | Applied Safety Research Engineer, Safeguards
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/16474952/005056a3-d347-1fe0-b197-9d70b5976282 | GovTech | Cybersecurity Engineer (Architecture & Solutioning)
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/17042707/005056a3-53e2-1fd0-bea1-3cabd25473e4 | GovTech | Cybersecurity Data Analyst
+- [ ] https://jobs.careers.gov.sg/jobs/hrp/16509721/005056a3-53e2-1fd1-88c7-dbd0b344f3ea | GovTech | Senior Data Scientist (Contract)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/4940537007 | Zscaler | Senior AI Engineer – LLM & Generative AI
+- [ ] https://amazon.jobs/en/jobs/10378719/senior-security-engineer-ai-red-team-threat-operations | Amazon | Senior Security Engineer, AI Red Team
+- [ ] https://nodeflair.com/jobs/delta-electronics-int-l-singapore-ai-ml-scientist-engineer-89274 | Delta Electronics | AI/ML Scientist & Engineer
+- [ ] https://nodeflair.com/jobs/rakuten-machine-learning-operation-engineer-mlops-258550 | Rakuten | Machine Learning Operation Engineer (MLOps)
+- [ ] https://www.mycareersfuture.gov.sg/job/others/ai-ml-engineer-reolink-technology-cdb493b4d671911102e7d996e086a53e | Reolink Technology | AI/ML Engineer
+- [ ] https://www.mycareersfuture.gov.sg/job/engineering/ai-engineer-synaxg-technologies-5f68908979f1cb58f52614f017e499a7 | Synaxg Technologies | AI Engineer (AI-RAN Focus)
+
 ## Processed
 
 - [x] #001 | https://www.grab.careers/en/jobs/744000107446310/senior-data-scientist-grabmaps/ | Grab | Senior Data Scientist (GrabMaps) | 2.5/5 | PDF ❌
