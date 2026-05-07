@@ -2,6 +2,13 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 58 | 2026-05-07 | Palo Alto Networks | AI Security Solutions Architect | 3.2/5 | Evaluated | ❌ | [058](reports/058-palo-alto-networks-ai-security-sa-2026-05-07.md) | Strong AI security match via PAN internship; GTM/SA track record gap — best as internal conversion |
+| 59 | 2026-05-07 | OpenAI | Forward Deployed Engineer - Singapore | 3.8/5 | Evaluated | ❌ | [059](reports/059-openai-fde-singapore-2026-05-07.md) | Perfect FDE archetype; 5yr req vs 2.5yr actual — apply anyway, PAN Technical Solutions = FDE-adjacent |
+| 60 | 2026-05-07 | Cohere | Applied AI Engineer - Agentic Workflows (Singapore) | 4.0/5 | Evaluated | ❌ | [060](reports/060-cohere-applied-ai-agentic-2026-05-07.md) | Strong agentic/RAG skills from PAN; slight exp gap (2yr vs 3yr req) — apply this week |
+| 61 | 2026-05-07 | Mistral AI | Applied Scientist / Research Engineer - Singapore | 2.0/5 | Evaluated | ❌ | [061](reports/061-mistral-applied-scientist-singapore-2026-05-07.md) | Core ML research (pre-training, GPU clusters) — structural domain mismatch; skip |
+| 62 | 2026-05-07 | Mistral AI | Applied AI, Forward Deployed ML Engineer - Singapore | 3.5/5 | Evaluated | ❌ | [062](reports/062-mistral-fde-ml-engineer-singapore-2026-05-07.md) | FDE for sovereign institutions; PAN banking/gov work = strong angle; team leadership gap |
+| 63 | 2026-05-07 | Mistral AI | Applied Scientist / Research Engineer - Multimodal (Singapore) | 1.5/5 | Evaluated | ❌ | [063](reports/063-mistral-applied-scientist-multimodal-2026-05-07.md) | Multimodal research (VLMs, diffusion, audio) — domain-specific hard blockers; skip |
+| 64 | 2026-05-07 | Mistral AI | AI Deployment Strategist - Singapore | 2.5/5 | Evaluated | ❌ | [064](reports/064-mistral-ai-deployment-strategist-singapore-2026-05-07.md) | Commercial SA/strategist (MEDDPICC, C-level) — engineering-to-commercial gap too large; skip |
 | 49 | 2026-05-04 | Google | Customer Engineer, Machine Learning | 2.0/5 | Evaluated | ❌ | [049](reports/049-google-customer-engineer-ml-2026-05-04.md) | Pre-sales CE role; 6yr req + wrong archetype for Dhruv |
 | 50 | 2026-05-04 | Meta | Research Scientist, ML (PhD) | 1.5/5 | Evaluated | ❌ | [050](reports/050-meta-research-scientist-ml-phd-2026-05-04.md) | PhD hard blocker; no publications |
 | 51 | 2026-05-04 | Meta | Software Engineer, Product | 3.0/5 | Evaluated | ❌ | [051](reports/051-meta-swe-product-2026-05-04.md) | Strong company, strong comp, but pure SWE with no AI/ML component |

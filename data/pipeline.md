@@ -50,15 +50,15 @@
 - [x] #054 | https://www.grab.careers/en/jobs/744000070013695/senior-machine-learning-engineer-reinforcement-learning/ | Grab | Senior MLE (Reinforcement Learning) | 1.8/5 | PDF ❌
 - [x] #055 | https://www.grab.careers/en/jobs/744000044135785/principal-machine-learning-engineer-ai-platform/ | Grab | Principal MLE, AI Platform | 1.5/5 | PDF ❌
 - [x] #056 | https://www.grab.careers/en/jobs/744000054343713/senior-machine-learning-engineer-foundation-models/ | Grab | Senior MLE, Foundation Models | 2.5/5 | PDF ❌
-- [ ] https://www.grab.careers/en/jobs/744000056289445/principal-machine-learning-engineer-ai-platform-model-customization/ | Grab | Principal Machine Learning Engineer, AI Platform (Model Customization)
+- [x] #057 | https://www.grab.careers/en/jobs/744000056289445/principal-machine-learning-engineer-ai-platform-model-customization/ | Grab | Principal Machine Learning Engineer, AI Platform (Model Customization) | 1.5/5 | PDF ❌
 
-- [ ] https://jobs.paloaltonetworks.com/en/job/singapore/ai-security-solutions-architect/47263/77863963840 | Palo Alto Networks | AI Security Solutions Architect
-- [ ] https://jobs.ashbyhq.com/openai/823fe212-7774-4387-a24b-b52f54c25fa3 | OpenAI | Forward Deployed Engineer - Singapore
-- [ ] https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae | Cohere | Applied AI Engineer - Agentic Workflows (Singapore)
-- [ ] https://jobs.lever.co/mistral/c41d9d9e-f0ea-4621-a4a9-3f10dfa9ae84 | Mistral AI | Applied Scientist / Research Engineer - Singapore
-- [ ] https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d | Mistral AI | Applied AI, Forward Deployed ML Engineer - Singapore
-- [ ] https://jobs.lever.co/mistral/825819e9-dc32-4eb5-9d9b-1b8dbbcb1496 | Mistral AI | Applied Scientist / Research Engineer - Multimodal (Singapore)
-- [ ] https://jobs.lever.co/mistral/55c2e8f4-a3ea-4e59-9ccf-dac2fee26c65 | Mistral AI | AI Deployment Strategist - Singapore
+- [x] #058 | https://jobs.paloaltonetworks.com/en/job/singapore/ai-security-solutions-architect/47263/77863963840 | Palo Alto Networks | AI Security Solutions Architect | 3.2/5 | PDF ❌
+- [x] #059 | https://jobs.ashbyhq.com/openai/823fe212-7774-4387-a24b-b52f54c25fa3 | OpenAI | Forward Deployed Engineer - Singapore | 3.8/5 | PDF ❌
+- [x] #060 | https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae | Cohere | Applied AI Engineer - Agentic Workflows (Singapore) | 4.0/5 | PDF ❌
+- [x] #061 | https://jobs.lever.co/mistral/c41d9d9e-f0ea-4621-a4a9-3f10dfa9ae84 | Mistral AI | Applied Scientist / Research Engineer - Singapore | 2.0/5 | PDF ❌
+- [x] #062 | https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d | Mistral AI | Applied AI, Forward Deployed ML Engineer - Singapore | 3.5/5 | PDF ❌
+- [x] #063 | https://jobs.lever.co/mistral/825819e9-dc32-4eb5-9d9b-1b8dbbcb1496 | Mistral AI | Applied Scientist / Research Engineer - Multimodal (Singapore) | 1.5/5 | PDF ❌
+- [x] #064 | https://jobs.lever.co/mistral/55c2e8f4-a3ea-4e59-9ccf-dac2fee26c65 | Mistral AI | AI Deployment Strategist - Singapore | 2.5/5 | PDF ❌
 - [ ] https://jobs.lever.co/mistral/2414ad08-5756-4875-afb5-04d26464b397 | Mistral AI | CyberSecurity, Offensive Security Engineer
 - [ ] https://jobs.careers.gov.sg/jobs/hrp/17430206/005056a3-53e2-1fd1-8e94-6b1318fd33ec | GovTech | Lead Engineer, AI Infrastructure, xCloud
 - [ ] https://jobs.careers.gov.sg/jobs/hrp/16363684/71f11bf1-192d-1fe0-9cf9-7ffad6b8c255 | GovTech | Senior Data Scientist, Singpass
